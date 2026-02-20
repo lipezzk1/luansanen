@@ -1,0 +1,552 @@
+#EXTINF:-1 tvg-ID="" tvg-name="===== BRAZIL GENERAL =====" tvg-logo="" group-title="US BRAZIL",===== BRAZIL GENERAL =====
+http://www.pandar.tv:88/02022387138159/02022387138159/577022
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| CNN BRASIL FHD" tvg-logo="" group-title="US BRAZIL",|BR| CNN BRASIL FHD
+http://www.pandar.tv:88/02022387138159/02022387138159/577023
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| CNN BRASIL HD" tvg-logo="" group-title="US BRAZIL",|BR| CNN BRASIL HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577024
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| CNN BRASIL SD" tvg-logo="" group-title="US BRAZIL",|BR| CNN BRASIL SD
+http://www.pandar.tv:88/02022387138159/02022387138159/577025
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| GLOBO BRASILA HD" tvg-logo="" group-title="US BRAZIL",|BR| GLOBO BRASILA HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577026
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| GLOBO RJ HD" tvg-logo="" group-title="US BRAZIL",|BR| GLOBO RJ HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577027
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| GLOBO SP HD" tvg-logo="" group-title="US BRAZIL",|BR| GLOBO SP HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577028
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| GLOBO MINAS HD" tvg-logo="" group-title="US BRAZIL",|BR| GLOBO MINAS HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577029
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| GLOBO NORDESTE HD" tvg-logo="" group-title="US BRAZIL",|BR| GLOBO NORDESTE HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577030
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| GLOBO RBS PORTO ALEGRE HD" tvg-logo="" group-title="US BRAZIL",|BR| GLOBO RBS PORTO ALEGRE HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577031
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| GLOBO TV MIRANTE HD" tvg-logo="" group-title="US BRAZIL",|BR| GLOBO TV MIRANTE HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577032
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| GLOBO TV SERGIPE HD" tvg-logo="" group-title="US BRAZIL",|BR| GLOBO TV SERGIPE HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577033
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| RECORD HD" tvg-logo="" group-title="US BRAZIL",|BR| RECORD HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577034
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| RECORD RJ HD" tvg-logo="" group-title="US BRAZIL",|BR| RECORD RJ HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577035
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| RECORD SP HD" tvg-logo="" group-title="US BRAZIL",|BR| RECORD SP HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577036
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| WOOHOO HD" tvg-logo="" group-title="US BRAZIL",|BR| WOOHOO HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577037
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| VIVA HD" tvg-logo="" group-title="US BRAZIL",|BR| VIVA HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577038
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| E! HD" tvg-logo="" group-title="US BRAZIL",|BR| E! HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577039
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| LIFETIME HD" tvg-logo="" group-title="US BRAZIL",|BR| LIFETIME HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577040
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| FOOD NETWORK HD" tvg-logo="" group-title="US BRAZIL",|BR| FOOD NETWORK HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577041
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| GLOOB HD" tvg-logo="" group-title="US BRAZIL",|BR| GLOOB HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577042
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| GNT HD" tvg-logo="" group-title="US BRAZIL",|BR| GNT HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577043
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| GLOBOSAT HD" tvg-logo="" group-title="US BRAZIL",|BR| GLOBOSAT HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577044
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| CANAL BRASIL HD" tvg-logo="" group-title="US BRAZIL",|BR| CANAL BRASIL HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577045
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| NOVO TEMPO HD" tvg-logo="" group-title="US BRAZIL",|BR| NOVO TEMPO HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577046
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| REDE TV HD" tvg-logo="" group-title="US BRAZIL",|BR| REDE TV HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577047
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| SBT HD" tvg-logo="" group-title="US BRAZIL",|BR| SBT HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577048
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| CURTA! HD" tvg-logo="" group-title="US BRAZIL",|BR| CURTA! HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577049
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| PRIME BOX BRASIL HD" tvg-logo="" group-title="US BRAZIL",|BR| PRIME BOX BRASIL HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577050
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| GLOBO NEWS HD" tvg-logo="" group-title="US BRAZIL",|BR| GLOBO NEWS HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577051
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| RECORD NEWS HD" tvg-logo="" group-title="US BRAZIL",|BR| RECORD NEWS HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577052
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| BAND NEWS HD" tvg-logo="" group-title="US BRAZIL",|BR| BAND NEWS HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577053
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| BABY HD" tvg-logo="" group-title="US BRAZIL",|BR| BABY HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577054
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| BOOMERANG HD" tvg-logo="" group-title="US BRAZIL",|BR| BOOMERANG HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577055
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| CARTOON NETWORK HD" tvg-logo="" group-title="US BRAZIL",|BR| CARTOON NETWORK HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577056
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| DISNEY CHANNEL HD" tvg-logo="" group-title="US BRAZIL",|BR| DISNEY CHANNEL HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577057
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| NICK HD" tvg-logo="" group-title="US BRAZIL",|BR| NICK HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577058
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| NICK JR HD" tvg-logo="" group-title="US BRAZIL",|BR| NICK JR HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577059
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| NICKELODEON HD" tvg-logo="" group-title="US BRAZIL",|BR| NICKELODEON HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577060
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| TOONCAST HD" tvg-logo="" group-title="US BRAZIL",|BR| TOONCAST HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577061
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| RA TIM BUM HD" tvg-logo="" group-title="US BRAZIL",|BR| RA TIM BUM HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577062
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| HBO HD" tvg-logo="" group-title="US BRAZIL",|BR| HBO HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577063
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| HBO 2 HD" tvg-logo="" group-title="US BRAZIL",|BR| HBO 2 HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577064
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| HBO FAMILY HD" tvg-logo="" group-title="US BRAZIL",|BR| HBO FAMILY HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577065
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| HBO PLUS HD" tvg-logo="" group-title="US BRAZIL",|BR| HBO PLUS HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577066
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| HBO SIGNATURE HD" tvg-logo="" group-title="US BRAZIL",|BR| HBO SIGNATURE HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577067
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| HBO POP HD" tvg-logo="" group-title="US BRAZIL",|BR| HBO POP HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577068
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| HBO XTREME HD" tvg-logo="" group-title="US BRAZIL",|BR| HBO XTREME HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577069
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| PREMIERE CLUBES HD" tvg-logo="" group-title="US BRAZIL",|BR| PREMIERE CLUBES HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577070
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| PREMIERE 2 HD" tvg-logo="" group-title="US BRAZIL",|BR| PREMIERE 2 HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577071
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| PREMIERE 3 HD" tvg-logo="" group-title="US BRAZIL",|BR| PREMIERE 3 HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577072
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| PREMIERE 4 HD" tvg-logo="" group-title="US BRAZIL",|BR| PREMIERE 4 HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577073
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| PREMIERE 5 HD" tvg-logo="" group-title="US BRAZIL",|BR| PREMIERE 5 HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577074
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| PREMIERE 6 HD" tvg-logo="" group-title="US BRAZIL",|BR| PREMIERE 6 HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577075
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| PREMIERE 7 HD" tvg-logo="" group-title="US BRAZIL",|BR| PREMIERE 7 HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577076
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| TELECINE PREMIUM HD" tvg-logo="" group-title="US BRAZIL",|BR| TELECINE PREMIUM HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577077
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| TNT HD" tvg-logo="" group-title="US BRAZIL",|BR| TNT HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577078
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| TNT SERIES HD" tvg-logo="" group-title="US BRAZIL",|BR| TNT SERIES HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577079
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| TELECINE ACTION HD" tvg-logo="" group-title="US BRAZIL",|BR| TELECINE ACTION HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577080
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| TELECINE CULT HD" tvg-logo="" group-title="US BRAZIL",|BR| TELECINE CULT HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577081
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| TELECINE FUN HD" tvg-logo="" group-title="US BRAZIL",|BR| TELECINE FUN HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577082
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| TELECINE PIPOCA HD" tvg-logo="" group-title="US BRAZIL",|BR| TELECINE PIPOCA HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577083
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| TELECINE TOUCH HD" tvg-logo="" group-title="US BRAZIL",|BR| TELECINE TOUCH HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577084
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| WARNER CHANNEL HD" tvg-logo="" group-title="US BRAZIL",|BR| WARNER CHANNEL HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577085
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| AMC HD" tvg-logo="" group-title="US BRAZIL",|BR| AMC HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577086
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| ARTE 1 HD" tvg-logo="" group-title="US BRAZIL",|BR| ARTE 1 HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577087
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| AXN HD" tvg-logo="" group-title="US BRAZIL",|BR| AXN HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577088
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| BAND CAMPINAS HD" tvg-logo="" group-title="US BRAZIL",|BR| BAND CAMPINAS HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577089
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| BAND SP HD" tvg-logo="" group-title="US BRAZIL",|BR| BAND SP HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577090
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| BAND SPORT HD" tvg-logo="" group-title="US BRAZIL",|BR| BAND SPORT HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577091
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| CINEMAX HD" tvg-logo="" group-title="US BRAZIL",|BR| CINEMAX HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577092
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| COMEDY CENTRAL HD" tvg-logo="" group-title="US BRAZIL",|BR| COMEDY CENTRAL HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577093
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| FX HD" tvg-logo="" group-title="US BRAZIL",|BR| FX HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577094
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| MEGAPIX HD" tvg-logo="" group-title="US BRAZIL",|BR| MEGAPIX HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577095
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| MULTISHOW HD" tvg-logo="" group-title="US BRAZIL",|BR| MULTISHOW HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577096
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| OFF HD" tvg-logo="" group-title="US BRAZIL",|BR| OFF HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577097
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| PARAMOUNT HD" tvg-logo="" group-title="US BRAZIL",|BR| PARAMOUNT HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577098
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| SONY CHANNEL HD" tvg-logo="" group-title="US BRAZIL",|BR| SONY CHANNEL HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577099
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| SPACE HD" tvg-logo="" group-title="US BRAZIL",|BR| SPACE HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577100
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| STUDIO UNIVERSAL HD" tvg-logo="" group-title="US BRAZIL",|BR| STUDIO UNIVERSAL HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577101
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| SYFY HD" tvg-logo="" group-title="US BRAZIL",|BR| SYFY HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577102
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| TBS HD" tvg-logo="" group-title="US BRAZIL",|BR| TBS HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577103
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| TCM HD" tvg-logo="" group-title="US BRAZIL",|BR| TCM HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577104
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| TLC HD" tvg-logo="" group-title="US BRAZIL",|BR| TLC HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577105
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| UNIVERSAL HD" tvg-logo="" group-title="US BRAZIL",|BR| UNIVERSAL HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577106
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| ZOOMOO HD" tvg-logo="" group-title="US BRAZIL",|BR| ZOOMOO HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577107
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| A&E HD" tvg-logo="" group-title="US BRAZIL",|BR| A&E HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577108
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| SPORTV 1 HD" tvg-logo="" group-title="US BRAZIL",|BR| SPORTV 1 HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577109
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| SPORTV 2 HD" tvg-logo="" group-title="US BRAZIL",|BR| SPORTV 2 HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577110
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| SPORTV 3 HD" tvg-logo="" group-title="US BRAZIL",|BR| SPORTV 3 HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577111
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| FOX SPORTS HD" tvg-logo="" group-title="US BRAZIL",|BR| FOX SPORTS HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577112
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| ESPN HD" tvg-logo="" group-title="US BRAZIL",|BR| ESPN HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577113
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| ESPN EXTRA HD" tvg-logo="" group-title="US BRAZIL",|BR| ESPN EXTRA HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577114
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| ESPN 2 HD" tvg-logo="" group-title="US BRAZIL",|BR| ESPN 2 HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577115
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| ESPN BRASIL HD" tvg-logo="" group-title="US BRAZIL",|BR| ESPN BRASIL HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577116
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| COMBATE HD" tvg-logo="" group-title="US BRAZIL",|BR| COMBATE HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577117
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| BAND SPORTS HD" tvg-logo="" group-title="US BRAZIL",|BR| BAND SPORTS HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577118
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| BIS HD" tvg-logo="" group-title="US BRAZIL",|BR| BIS HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577119
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| MTV HD" tvg-logo="http://vodkom.com:25461/Logo/Logo/International/MTV/MTV.png" group-title="US BRAZIL",|BR| MTV HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577120
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| ANIMAL PLANET HD" tvg-logo="" group-title="US BRAZIL",|BR| ANIMAL PLANET HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577121
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| DISCOVERY HD" tvg-logo="" group-title="US BRAZIL",|BR| DISCOVERY HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577122
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| DISCOVERY CIVILIZATION HD" tvg-logo="" group-title="US BRAZIL",|BR| DISCOVERY CIVILIZATION HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577123
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| DISCOVERY H&H HD" tvg-logo="" group-title="US BRAZIL",|BR| DISCOVERY H&H HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577124
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| DISCOVERY KIDS HD" tvg-logo="" group-title="US BRAZIL",|BR| DISCOVERY KIDS HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577125
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| DISCOVERY SCIENCE HD" tvg-logo="" group-title="US BRAZIL",|BR| DISCOVERY SCIENCE HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577126
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| DISCOVERY THEATER HD" tvg-logo="" group-title="US BRAZIL",|BR| DISCOVERY THEATER HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577127
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| DISCOVERY TURBO HD" tvg-logo="" group-title="US BRAZIL",|BR| DISCOVERY TURBO HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577128
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| DISCOVERY WORLD HD" tvg-logo="" group-title="US BRAZIL",|BR| DISCOVERY WORLD HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577129
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| NAT GEO HD" tvg-logo="" group-title="US BRAZIL",|BR| NAT GEO HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577130
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| H2 HD" tvg-logo="" group-title="US BRAZIL",|BR| H2 HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577131
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| HISTORY HD" tvg-logo="" group-title="US BRAZIL",|BR| HISTORY HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577132
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| DISCOVERY ID HD" tvg-logo="" group-title="US BRAZIL",|BR| DISCOVERY ID HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577133
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| BBB MOSAICO" tvg-logo="" group-title="US BRAZIL",|BR| BBB MOSAICO
+http://www.pandar.tv:88/02022387138159/02022387138159/577134
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| BBB PISCINA" tvg-logo="" group-title="US BRAZIL",|BR| BBB PISCINA
+http://www.pandar.tv:88/02022387138159/02022387138159/577135
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| BBB JARDIM" tvg-logo="" group-title="US BRAZIL",|BR| BBB JARDIM
+http://www.pandar.tv:88/02022387138159/02022387138159/577136
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| BBB BANHEIRO" tvg-logo="" group-title="US BRAZIL",|BR| BBB BANHEIRO
+http://www.pandar.tv:88/02022387138159/02022387138159/577137
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| BBB COZINHA" tvg-logo="" group-title="US BRAZIL",|BR| BBB COZINHA
+http://www.pandar.tv:88/02022387138159/02022387138159/577138
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| BBB SALA" tvg-logo="" group-title="US BRAZIL",|BR| BBB SALA
+http://www.pandar.tv:88/02022387138159/02022387138159/577139
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| BBB QUARTO GNOMO" tvg-logo="" group-title="US BRAZIL",|BR| BBB QUARTO GNOMO
+http://www.pandar.tv:88/02022387138159/02022387138159/577140
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| BBB QUARTO FADA" tvg-logo="" group-title="US BRAZIL",|BR| BBB QUARTO FADA
+http://www.pandar.tv:88/02022387138159/02022387138159/577141
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| BBB QUARTO MAGIA" tvg-logo="" group-title="US BRAZIL",|BR| BBB QUARTO MAGIA
+http://www.pandar.tv:88/02022387138159/02022387138159/577142
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| BBB SEGUE O LIDER" tvg-logo="" group-title="US BRAZIL",|BR| BBB SEGUE O LIDER
+http://www.pandar.tv:88/02022387138159/02022387138159/577143
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| BBB ACOMPANHE A CASA 02" tvg-logo="" group-title="US BRAZIL",|BR| BBB ACOMPANHE A CASA 02
+http://www.pandar.tv:88/02022387138159/02022387138159/577144
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| BBB ACOMPANHE A CASA 01" tvg-logo="" group-title="US BRAZIL",|BR| BBB ACOMPANHE A CASA 01
+http://www.pandar.tv:88/02022387138159/02022387138159/577145
+#EXTINF:-1 tvg-ID="" tvg-name="===== BRAZIL GENERAL =====" tvg-logo="" group-title="US BRAZIL",===== BRAZIL GENERAL =====
+http://www.pandar.tv:88/02022387138159/02022387138159/577022
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| CNN BRASIL FHD" tvg-logo="" group-title="US BRAZIL",|BR| CNN BRASIL FHD
+http://www.pandar.tv:88/02022387138159/02022387138159/577023
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| CNN BRASIL HD" tvg-logo="" group-title="US BRAZIL",|BR| CNN BRASIL HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577024
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| CNN BRASIL SD" tvg-logo="" group-title="US BRAZIL",|BR| CNN BRASIL SD
+http://www.pandar.tv:88/02022387138159/02022387138159/577025
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| GLOBO BRASILA HD" tvg-logo="" group-title="US BRAZIL",|BR| GLOBO BRASILA HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577026
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| GLOBO RJ HD" tvg-logo="" group-title="US BRAZIL",|BR| GLOBO RJ HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577027
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| GLOBO SP HD" tvg-logo="" group-title="US BRAZIL",|BR| GLOBO SP HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577028
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| GLOBO MINAS HD" tvg-logo="" group-title="US BRAZIL",|BR| GLOBO MINAS HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577029
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| GLOBO NORDESTE HD" tvg-logo="" group-title="US BRAZIL",|BR| GLOBO NORDESTE HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577030
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| GLOBO RBS PORTO ALEGRE HD" tvg-logo="" group-title="US BRAZIL",|BR| GLOBO RBS PORTO ALEGRE HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577031
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| GLOBO TV MIRANTE HD" tvg-logo="" group-title="US BRAZIL",|BR| GLOBO TV MIRANTE HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577032
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| GLOBO TV SERGIPE HD" tvg-logo="" group-title="US BRAZIL",|BR| GLOBO TV SERGIPE HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577033
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| RECORD HD" tvg-logo="" group-title="US BRAZIL",|BR| RECORD HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577034
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| RECORD RJ HD" tvg-logo="" group-title="US BRAZIL",|BR| RECORD RJ HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577035
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| RECORD SP HD" tvg-logo="" group-title="US BRAZIL",|BR| RECORD SP HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577036
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| WOOHOO HD" tvg-logo="" group-title="US BRAZIL",|BR| WOOHOO HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577037
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| VIVA HD" tvg-logo="" group-title="US BRAZIL",|BR| VIVA HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577038
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| E! HD" tvg-logo="" group-title="US BRAZIL",|BR| E! HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577039
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| LIFETIME HD" tvg-logo="" group-title="US BRAZIL",|BR| LIFETIME HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577040
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| FOOD NETWORK HD" tvg-logo="" group-title="US BRAZIL",|BR| FOOD NETWORK HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577041
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| GLOOB HD" tvg-logo="" group-title="US BRAZIL",|BR| GLOOB HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577042
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| GNT HD" tvg-logo="" group-title="US BRAZIL",|BR| GNT HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577043
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| GLOBOSAT HD" tvg-logo="" group-title="US BRAZIL",|BR| GLOBOSAT HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577044
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| CANAL BRASIL HD" tvg-logo="" group-title="US BRAZIL",|BR| CANAL BRASIL HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577045
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| NOVO TEMPO HD" tvg-logo="" group-title="US BRAZIL",|BR| NOVO TEMPO HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577046
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| REDE TV HD" tvg-logo="" group-title="US BRAZIL",|BR| REDE TV HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577047
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| SBT HD" tvg-logo="" group-title="US BRAZIL",|BR| SBT HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577048
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| CURTA! HD" tvg-logo="" group-title="US BRAZIL",|BR| CURTA! HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577049
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| PRIME BOX BRASIL HD" tvg-logo="" group-title="US BRAZIL",|BR| PRIME BOX BRASIL HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577050
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| GLOBO NEWS HD" tvg-logo="" group-title="US BRAZIL",|BR| GLOBO NEWS HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577051
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| RECORD NEWS HD" tvg-logo="" group-title="US BRAZIL",|BR| RECORD NEWS HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577052
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| BAND NEWS HD" tvg-logo="" group-title="US BRAZIL",|BR| BAND NEWS HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577053
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| BABY HD" tvg-logo="" group-title="US BRAZIL",|BR| BABY HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577054
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| BOOMERANG HD" tvg-logo="" group-title="US BRAZIL",|BR| BOOMERANG HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577055
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| CARTOON NETWORK HD" tvg-logo="" group-title="US BRAZIL",|BR| CARTOON NETWORK HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577056
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| DISNEY CHANNEL HD" tvg-logo="" group-title="US BRAZIL",|BR| DISNEY CHANNEL HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577057
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| NICK HD" tvg-logo="" group-title="US BRAZIL",|BR| NICK HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577058
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| NICK JR HD" tvg-logo="" group-title="US BRAZIL",|BR| NICK JR HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577059
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| NICKELODEON HD" tvg-logo="" group-title="US BRAZIL",|BR| NICKELODEON HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577060
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| TOONCAST HD" tvg-logo="" group-title="US BRAZIL",|BR| TOONCAST HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577061
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| RA TIM BUM HD" tvg-logo="" group-title="US BRAZIL",|BR| RA TIM BUM HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577062
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| HBO HD" tvg-logo="" group-title="US BRAZIL",|BR| HBO HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577063
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| HBO 2 HD" tvg-logo="" group-title="US BRAZIL",|BR| HBO 2 HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577064
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| HBO FAMILY HD" tvg-logo="" group-title="US BRAZIL",|BR| HBO FAMILY HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577065
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| HBO PLUS HD" tvg-logo="" group-title="US BRAZIL",|BR| HBO PLUS HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577066
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| HBO SIGNATURE HD" tvg-logo="" group-title="US BRAZIL",|BR| HBO SIGNATURE HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577067
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| HBO POP HD" tvg-logo="" group-title="US BRAZIL",|BR| HBO POP HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577068
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| HBO XTREME HD" tvg-logo="" group-title="US BRAZIL",|BR| HBO XTREME HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577069
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| PREMIERE CLUBES HD" tvg-logo="" group-title="US BRAZIL",|BR| PREMIERE CLUBES HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577070
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| PREMIERE 2 HD" tvg-logo="" group-title="US BRAZIL",|BR| PREMIERE 2 HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577071
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| PREMIERE 3 HD" tvg-logo="" group-title="US BRAZIL",|BR| PREMIERE 3 HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577072
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| PREMIERE 4 HD" tvg-logo="" group-title="US BRAZIL",|BR| PREMIERE 4 HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577073
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| PREMIERE 5 HD" tvg-logo="" group-title="US BRAZIL",|BR| PREMIERE 5 HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577074
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| PREMIERE 6 HD" tvg-logo="" group-title="US BRAZIL",|BR| PREMIERE 6 HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577075
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| PREMIERE 7 HD" tvg-logo="" group-title="US BRAZIL",|BR| PREMIERE 7 HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577076
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| TELECINE PREMIUM HD" tvg-logo="" group-title="US BRAZIL",|BR| TELECINE PREMIUM HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577077
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| TNT HD" tvg-logo="" group-title="US BRAZIL",|BR| TNT HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577078
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| TNT SERIES HD" tvg-logo="" group-title="US BRAZIL",|BR| TNT SERIES HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577079
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| TELECINE ACTION HD" tvg-logo="" group-title="US BRAZIL",|BR| TELECINE ACTION HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577080
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| TELECINE CULT HD" tvg-logo="" group-title="US BRAZIL",|BR| TELECINE CULT HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577081
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| TELECINE FUN HD" tvg-logo="" group-title="US BRAZIL",|BR| TELECINE FUN HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577082
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| TELECINE PIPOCA HD" tvg-logo="" group-title="US BRAZIL",|BR| TELECINE PIPOCA HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577083
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| TELECINE TOUCH HD" tvg-logo="" group-title="US BRAZIL",|BR| TELECINE TOUCH HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577084
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| WARNER CHANNEL HD" tvg-logo="" group-title="US BRAZIL",|BR| WARNER CHANNEL HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577085
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| AMC HD" tvg-logo="" group-title="US BRAZIL",|BR| AMC HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577086
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| ARTE 1 HD" tvg-logo="" group-title="US BRAZIL",|BR| ARTE 1 HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577087
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| AXN HD" tvg-logo="" group-title="US BRAZIL",|BR| AXN HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577088
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| BAND CAMPINAS HD" tvg-logo="" group-title="US BRAZIL",|BR| BAND CAMPINAS HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577089
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| BAND SP HD" tvg-logo="" group-title="US BRAZIL",|BR| BAND SP HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577090
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| BAND SPORT HD" tvg-logo="" group-title="US BRAZIL",|BR| BAND SPORT HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577091
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| CINEMAX HD" tvg-logo="" group-title="US BRAZIL",|BR| CINEMAX HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577092
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| COMEDY CENTRAL HD" tvg-logo="" group-title="US BRAZIL",|BR| COMEDY CENTRAL HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577093
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| FX HD" tvg-logo="" group-title="US BRAZIL",|BR| FX HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577094
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| MEGAPIX HD" tvg-logo="" group-title="US BRAZIL",|BR| MEGAPIX HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577095
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| MULTISHOW HD" tvg-logo="" group-title="US BRAZIL",|BR| MULTISHOW HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577096
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| OFF HD" tvg-logo="" group-title="US BRAZIL",|BR| OFF HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577097
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| PARAMOUNT HD" tvg-logo="" group-title="US BRAZIL",|BR| PARAMOUNT HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577098
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| SONY CHANNEL HD" tvg-logo="" group-title="US BRAZIL",|BR| SONY CHANNEL HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577099
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| SPACE HD" tvg-logo="" group-title="US BRAZIL",|BR| SPACE HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577100
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| STUDIO UNIVERSAL HD" tvg-logo="" group-title="US BRAZIL",|BR| STUDIO UNIVERSAL HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577101
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| SYFY HD" tvg-logo="" group-title="US BRAZIL",|BR| SYFY HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577102
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| TBS HD" tvg-logo="" group-title="US BRAZIL",|BR| TBS HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577103
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| TCM HD" tvg-logo="" group-title="US BRAZIL",|BR| TCM HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577104
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| TLC HD" tvg-logo="" group-title="US BRAZIL",|BR| TLC HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577105
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| UNIVERSAL HD" tvg-logo="" group-title="US BRAZIL",|BR| UNIVERSAL HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577106
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| ZOOMOO HD" tvg-logo="" group-title="US BRAZIL",|BR| ZOOMOO HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577107
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| A&E HD" tvg-logo="" group-title="US BRAZIL",|BR| A&E HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577108
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| SPORTV 1 HD" tvg-logo="" group-title="US BRAZIL",|BR| SPORTV 1 HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577109
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| SPORTV 2 HD" tvg-logo="" group-title="US BRAZIL",|BR| SPORTV 2 HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577110
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| SPORTV 3 HD" tvg-logo="" group-title="US BRAZIL",|BR| SPORTV 3 HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577111
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| FOX SPORTS HD" tvg-logo="" group-title="US BRAZIL",|BR| FOX SPORTS HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577112
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| ESPN HD" tvg-logo="" group-title="US BRAZIL",|BR| ESPN HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577113
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| ESPN EXTRA HD" tvg-logo="" group-title="US BRAZIL",|BR| ESPN EXTRA HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577114
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| ESPN 2 HD" tvg-logo="" group-title="US BRAZIL",|BR| ESPN 2 HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577115
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| ESPN BRASIL HD" tvg-logo="" group-title="US BRAZIL",|BR| ESPN BRASIL HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577116
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| COMBATE HD" tvg-logo="" group-title="US BRAZIL",|BR| COMBATE HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577117
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| BAND SPORTS HD" tvg-logo="" group-title="US BRAZIL",|BR| BAND SPORTS HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577118
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| BIS HD" tvg-logo="" group-title="US BRAZIL",|BR| BIS HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577119
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| MTV HD" tvg-logo="http://vodkom.com:25461/Logo/Logo/International/MTV/MTV.png" group-title="US BRAZIL",|BR| MTV HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577120
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| ANIMAL PLANET HD" tvg-logo="" group-title="US BRAZIL",|BR| ANIMAL PLANET HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577121
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| DISCOVERY HD" tvg-logo="" group-title="US BRAZIL",|BR| DISCOVERY HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577122
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| DISCOVERY CIVILIZATION HD" tvg-logo="" group-title="US BRAZIL",|BR| DISCOVERY CIVILIZATION HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577123
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| DISCOVERY H&H HD" tvg-logo="" group-title="US BRAZIL",|BR| DISCOVERY H&H HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577124
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| DISCOVERY KIDS HD" tvg-logo="" group-title="US BRAZIL",|BR| DISCOVERY KIDS HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577125
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| DISCOVERY SCIENCE HD" tvg-logo="" group-title="US BRAZIL",|BR| DISCOVERY SCIENCE HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577126
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| DISCOVERY THEATER HD" tvg-logo="" group-title="US BRAZIL",|BR| DISCOVERY THEATER HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577127
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| DISCOVERY TURBO HD" tvg-logo="" group-title="US BRAZIL",|BR| DISCOVERY TURBO HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577128
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| DISCOVERY WORLD HD" tvg-logo="" group-title="US BRAZIL",|BR| DISCOVERY WORLD HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577129
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| NAT GEO HD" tvg-logo="" group-title="US BRAZIL",|BR| NAT GEO HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577130
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| H2 HD" tvg-logo="" group-title="US BRAZIL",|BR| H2 HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577131
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| HISTORY HD" tvg-logo="" group-title="US BRAZIL",|BR| HISTORY HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577132
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| DISCOVERY ID HD" tvg-logo="" group-title="US BRAZIL",|BR| DISCOVERY ID HD
+http://www.pandar.tv:88/02022387138159/02022387138159/577133
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| BBB MOSAICO" tvg-logo="" group-title="US BRAZIL",|BR| BBB MOSAICO
+http://www.pandar.tv:88/02022387138159/02022387138159/577134
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| BBB PISCINA" tvg-logo="" group-title="US BRAZIL",|BR| BBB PISCINA
+http://www.pandar.tv:88/02022387138159/02022387138159/577135
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| BBB JARDIM" tvg-logo="" group-title="US BRAZIL",|BR| BBB JARDIM
+http://www.pandar.tv:88/02022387138159/02022387138159/577136
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| BBB BANHEIRO" tvg-logo="" group-title="US BRAZIL",|BR| BBB BANHEIRO
+http://www.pandar.tv:88/02022387138159/02022387138159/577137
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| BBB COZINHA" tvg-logo="" group-title="US BRAZIL",|BR| BBB COZINHA
+http://www.pandar.tv:88/02022387138159/02022387138159/577138
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| BBB SALA" tvg-logo="" group-title="US BRAZIL",|BR| BBB SALA
+http://www.pandar.tv:88/02022387138159/02022387138159/577139
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| BBB QUARTO GNOMO" tvg-logo="" group-title="US BRAZIL",|BR| BBB QUARTO GNOMO
+http://www.pandar.tv:88/02022387138159/02022387138159/577140
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| BBB QUARTO FADA" tvg-logo="" group-title="US BRAZIL",|BR| BBB QUARTO FADA
+http://www.pandar.tv:88/02022387138159/02022387138159/577141
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| BBB QUARTO MAGIA" tvg-logo="" group-title="US BRAZIL",|BR| BBB QUARTO MAGIA
+http://www.pandar.tv:88/02022387138159/02022387138159/577142
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| BBB SEGUE O LIDER" tvg-logo="" group-title="US BRAZIL",|BR| BBB SEGUE O LIDER
+http://www.pandar.tv:88/02022387138159/02022387138159/577143
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| BBB ACOMPANHE A CASA 02" tvg-logo="" group-title="US BRAZIL",|BR| BBB ACOMPANHE A CASA 02
+http://www.pandar.tv:88/02022387138159/02022387138159/577144
+#EXTINF:-1 tvg-ID="" tvg-name="|BR| BBB ACOMPANHE A CASA 01" tvg-logo="" group-title="US BRAZIL",|BR| BBB ACOMPANHE A CASA 01
+http://www.pandar.tv:88/02022387138159/02022387138159/577145
+#EXTINF:-1 tvg-ID="" tvg-name="===== ARGENTINA =====" tvg-logo="" group-title="US ARGENTINE",===== ARGENTINA =====
+http://www.pandar.tv:88/02022387138159/02022387138159/94729
+#EXTINF:-1 tvg-ID="" tvg-name="ARGENTINA: TV PUBLICA" tvg-logo="" group-title="US ARGENTINE",ARGENTINA: TV PUBLICA
+http://www.pandar.tv:88/02022387138159/02022387138159/94730
+#EXTINF:-1 tvg-ID="" tvg-name="ARGENTINA: AMERICA TV" tvg-logo="" group-title="US ARGENTINE",ARGENTINA: AMERICA TV
+http://www.pandar.tv:88/02022387138159/02022387138159/94731
+#EXTINF:-1 tvg-ID="" tvg-name="ARGENTINA: TELEFE" tvg-logo="" group-title="US ARGENTINE",ARGENTINA: TELEFE
+http://www.pandar.tv:88/02022387138159/02022387138159/94732
+#EXTINF:-1 tvg-ID="" tvg-name="ARGENTINA: EL TRECE" tvg-logo="" group-title="US ARGENTINE",ARGENTINA: EL TRECE
+http://www.pandar.tv:88/02022387138159/02022387138159/94733
+#EXTINF:-1 tvg-ID="" tvg-name="ARGENTINA: ELNUEVE" tvg-logo="" group-title="US ARGENTINE",ARGENTINA: ELNUEVE
+http://www.pandar.tv:88/02022387138159/02022387138159/94734
+#EXTINF:-1 tvg-ID="" tvg-name="ARGENTINA: ENCUENTRO" tvg-logo="" group-title="US ARGENTINE",ARGENTINA: ENCUENTRO
+http://www.pandar.tv:88/02022387138159/02022387138159/94735
+#EXTINF:-1 tvg-ID="" tvg-name="ARGENTINA: LN" tvg-logo="" group-title="US ARGENTINE",ARGENTINA: LN
+http://www.pandar.tv:88/02022387138159/02022387138159/94736
+#EXTINF:-1 tvg-ID="" tvg-name="ARGENTINA: ARGENTINISIMA" tvg-logo="" group-title="US ARGENTINE",ARGENTINA: ARGENTINISIMA
+http://www.pandar.tv:88/02022387138159/02022387138159/94737
+#EXTINF:-1 tvg-ID="" tvg-name="ARGENTINA: CANAL DE LA CIUDAD" tvg-logo="" group-title="US ARGENTINE",ARGENTINA: CANAL DE LA CIUDAD
+http://www.pandar.tv:88/02022387138159/02022387138159/94738
+#EXTINF:-1 tvg-ID="" tvg-name="ARGENTINA: 13 MAX" tvg-logo="" group-title="US ARGENTINE",ARGENTINA: 13 MAX
+http://www.pandar.tv:88/02022387138159/02022387138159/94739
+#EXTINF:-1 tvg-ID="" tvg-name="ARGENTINA: CINE AR" tvg-logo="" group-title="US ARGENTINE",ARGENTINA: CINE AR
+http://www.pandar.tv:88/02022387138159/02022387138159/94741
+#EXTINF:-1 tvg-ID="" tvg-name="ARGENTINA: CRONICA" tvg-logo="" group-title="US ARGENTINE",ARGENTINA: CRONICA
+http://www.pandar.tv:88/02022387138159/02022387138159/94743
+#EXTINF:-1 tvg-ID="" tvg-name="ARGENTINA: CANAL 4" tvg-logo="" group-title="US ARGENTINE",ARGENTINA: CANAL 4
+http://www.pandar.tv:88/02022387138159/02022387138159/94744
+#EXTINF:-1 tvg-ID="" tvg-name="ARGENTINA: TOP LATINO TV" tvg-logo="" group-title="US ARGENTINE",ARGENTINA: TOP LATINO TV
+http://www.pandar.tv:88/02022387138159/02022387138159/94745
+#EXTINF:-1 tvg-ID="" tvg-name="ARGENTINA: TN" tvg-logo="" group-title="US ARGENTINE",ARGENTINA: TN
+http://www.pandar.tv:88/02022387138159/02022387138159/94746
+#EXTINF:-1 tvg-ID="" tvg-name="ARGENTINA: C5N" tvg-logo="" group-title="US ARGENTINE",ARGENTINA: C5N
+http://www.pandar.tv:88/02022387138159/02022387138159/94747
+#EXTINF:-1 tvg-ID="" tvg-name="ARGENTINA: CANAL 26" tvg-logo="" group-title="US ARGENTINE",ARGENTINA: CANAL 26
+http://www.pandar.tv:88/02022387138159/02022387138159/94748
+#EXTINF:-1 tvg-ID="" tvg-name="ARGENTINA: A24" tvg-logo="" group-title="US ARGENTINE",ARGENTINA: A24
+http://www.pandar.tv:88/02022387138159/02022387138159/94749
+#EXTINF:-1 tvg-ID="" tvg-name="ARGENTINA: MUSIC TOP" tvg-logo="" group-title="US ARGENTINE",ARGENTINA: MUSIC TOP
+http://www.pandar.tv:88/02022387138159/02022387138159/94751
+#EXTINF:-1 tvg-ID="" tvg-name="ARGENTINA: PAKAPAKA" tvg-logo="" group-title="US ARGENTINE",ARGENTINA: PAKAPAKA
+http://www.pandar.tv:88/02022387138159/02022387138159/94752
+#EXTINF:-1 tvg-ID="" tvg-name="ARGENTINA: FOX SPORT" tvg-logo="" group-title="US ARGENTINE",ARGENTINA: FOX SPORT
+http://www.pandar.tv:88/02022387138159/02022387138159/94753
+#EXTINF:-1 tvg-ID="" tvg-name="ARGENTINA: FOX SPORT 2" tvg-logo="" group-title="US ARGENTINE",ARGENTINA: FOX SPORT 2
+http://www.pandar.tv:88/02022387138159/02022387138159/94754
+#EXTINF:-1 tvg-ID="" tvg-name="ARGENTINA: FOX SPORT 3" tvg-logo="" group-title="US ARGENTINE",ARGENTINA: FOX SPORT 3
+http://www.pandar.tv:88/02022387138159/02022387138159/94755
+#EXTINF:-1 tvg-ID="" tvg-name="ARGENTINA: ESPN PREMIUM" tvg-logo="" group-title="US ARGENTINE",ARGENTINA: ESPN PREMIUM
+http://www.pandar.tv:88/02022387138159/02022387138159/94756
+#EXTINF:-1 tvg-ID="" tvg-name="ARGENTINA: TNT SPORT" tvg-logo="" group-title="US ARGENTINE",ARGENTINA: TNT SPORT
+http://www.pandar.tv:88/02022387138159/02022387138159/94757
+#EXTINF:-1 tvg-ID="" tvg-name="ARGENTINA: DIRECT TV SPORTS" tvg-logo="" group-title="US ARGENTINE",ARGENTINA: DIRECT TV SPORTS
+http://www.pandar.tv:88/02022387138159/02022387138159/94758
+#EXTINF:-1 tvg-ID="" tvg-name="ARGENTINA: DIRECT TV SPORTS 2" tvg-logo="" group-title="US ARGENTINE",ARGENTINA: DIRECT TV SPORTS 2
+http://www.pandar.tv:88/02022387138159/02022387138159/94759
