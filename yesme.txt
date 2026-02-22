@@ -1,0 +1,696 @@
+#EXTINF:-1 tvg-id="hbo2.br" tvg-name="HBO 2 FHD" tvg-logo="https://od.lk/s/NzdfNTg1NjQxNjBf/hbo2.png" group-title="C • HBO",HBO 2 FHD
+http://axshield.xyz:80/054094807/220900798/14346708
+#EXTINF:-1 tvg-id="hbo2.br" tvg-name="HBO 2 HD" tvg-logo="https://od.lk/s/NzdfNTg1NjQxNjBf/hbo2.png" group-title="C • HBO",HBO 2 HD
+http://axshield.xyz:80/054094807/220900798/14346715
+#EXTINF:-1 tvg-id="hbo2.br" tvg-name="HBO 2 SD" tvg-logo="https://od.lk/s/NzdfNTg1NjQxNjBf/hbo2.png" group-title="C • HBO",HBO 2 SD
+http://axshield.xyz:80/054094807/220900798/14346723
+#EXTINF:-1 tvg-id="hbofamily.br" tvg-name="HBO Family FHD" tvg-logo="https://od.lk/s/NzdfNTg1NjQxNjJf/hbofamily.png" group-title="C • HBO",HBO Family FHD
+http://axshield.xyz:80/054094807/220900798/14346709
+#EXTINF:-1 tvg-id="hbofamily.br" tvg-name="HBO Family HD" tvg-logo="https://od.lk/s/NzdfNTg1NjQxNjJf/hbofamily.png" group-title="C • HBO",HBO Family HD
+http://axshield.xyz:80/054094807/220900798/14346716
+#EXTINF:-1 tvg-id="hbofamily.br" tvg-name="HBO Family SD" tvg-logo="https://od.lk/s/NzdfNTg1NjQxNjJf/hbofamily.png" group-title="C • HBO",HBO Family SD
+http://axshield.xyz:80/054094807/220900798/14346724
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO FHD" tvg-logo="https://od.lk/s/NzdfNTg1NjQxNThf/hbo.png" group-title="C • HBO",HBO FHD
+http://axshield.xyz:80/054094807/220900798/14346707
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO HD" tvg-logo="https://od.lk/s/NzdfNTg1NjQxNThf/hbo.png" group-title="C • HBO",HBO HD
+http://axshield.xyz:80/054094807/220900798/14346717
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max Sports 01" tvg-logo="https://meuplayer.tv.br/lgs_btv/hbomax.png" group-title="C • HBO Max Sports",HBO Max Sports 01
+http://axshield.xyz:80/054094807/220900798/14346731
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max Sports 02" tvg-logo="https://meuplayer.tv.br/lgs_btv/hbomax.png" group-title="C • HBO Max Sports",HBO Max Sports 02
+http://axshield.xyz:80/054094807/220900798/14346732
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max Sports 03" tvg-logo="https://meuplayer.tv.br/lgs_btv/hbomax.png" group-title="C • HBO Max Sports",HBO Max Sports 03
+http://axshield.xyz:80/054094807/220900798/14346733
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max Sports 04" tvg-logo="https://meuplayer.tv.br/lgs_btv/hbomax.png" group-title="C • HBO Max Sports",HBO Max Sports 04
+http://axshield.xyz:80/054094807/220900798/14346734
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max Sports 05" tvg-logo="https://meuplayer.tv.br/lgs_btv/hbomax.png" group-title="C • HBO Max Sports",HBO Max Sports 05
+http://axshield.xyz:80/054094807/220900798/14346735
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max Sports 06" tvg-logo="https://meuplayer.tv.br/lgs_btv/hbomax.png" group-title="C • HBO Max Sports",HBO Max Sports 06
+http://axshield.xyz:80/054094807/220900798/14346736
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max Sports 07" tvg-logo="https://meuplayer.tv.br/lgs_btv/hbomax.png" group-title="C • HBO Max Sports",HBO Max Sports 07
+http://axshield.xyz:80/054094807/220900798/14346737
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max Sports 08" tvg-logo="https://meuplayer.tv.br/lgs_btv/hbomax.png" group-title="C • HBO Max Sports",HBO Max Sports 08
+http://axshield.xyz:80/054094807/220900798/14346738
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max Sports 09" tvg-logo="https://meuplayer.tv.br/lgs_btv/hbomax.png" group-title="C • HBO Max Sports",HBO Max Sports 09
+http://axshield.xyz:80/054094807/220900798/14346739
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max Sports 10" tvg-logo="https://meuplayer.tv.br/lgs_btv/hbomax.png" group-title="C • HBO Max Sports",HBO Max Sports 10
+http://axshield.xyz:80/054094807/220900798/14346740
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max Sports 11" tvg-logo="https://meuplayer.tv.br/lgs_btv/hbomax.png" group-title="C • HBO Max Sports",HBO Max Sports 11
+http://axshield.xyz:80/054094807/220900798/14346741
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max Sports 12" tvg-logo="https://meuplayer.tv.br/lgs_btv/hbomax.png" group-title="C • HBO Max Sports",HBO Max Sports 12
+http://axshield.xyz:80/054094807/220900798/14346742
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max Sports 13" tvg-logo="https://meuplayer.tv.br/lgs_btv/hbomax.png" group-title="C • HBO Max Sports",HBO Max Sports 13
+http://axshield.xyz:80/054094807/220900798/14346743
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max Sports 14" tvg-logo="https://meuplayer.tv.br/lgs_btv/hbomax.png" group-title="C • HBO Max Sports",HBO Max Sports 14
+http://axshield.xyz:80/054094807/220900798/14346744
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max Sports 15" tvg-logo="https://meuplayer.tv.br/lgs_btv/hbomax.png" group-title="C • HBO Max Sports",HBO Max Sports 15
+http://axshield.xyz:80/054094807/220900798/14346745
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max Sports 16" tvg-logo="https://meuplayer.tv.br/lgs_btv/hbomax.png" group-title="C • HBO Max Sports",HBO Max Sports 16
+http://axshield.xyz:80/054094807/220900798/14346746
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max Sports 17" tvg-logo="https://meuplayer.tv.br/lgs_btv/hbomax.png" group-title="C • HBO Max Sports",HBO Max Sports 17
+http://axshield.xyz:80/054094807/220900798/14346747
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max Sports 18" tvg-logo="https://meuplayer.tv.br/lgs_btv/hbomax.png" group-title="C • HBO Max Sports",HBO Max Sports 18
+http://axshield.xyz:80/054094807/220900798/14346748
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max Sports Mosaico" tvg-logo="https://meuplayer.tv.br/lgs_btv/hbomax.png" group-title="C • HBO Max Sports",HBO Max Sports Mosaico
+http://axshield.xyz:80/054094807/220900798/14346749
+#EXTINF:-1 tvg-id="hbomundi.br" tvg-name="HBO Mundi FHD" tvg-logo="https://od.lk/s/NzdfNTg1NjQxNjdf/hbomundi.png" group-title="C • HBO",HBO Mundi FHD
+http://axshield.xyz:80/054094807/220900798/14346710
+#EXTINF:-1 tvg-id="hbomundi.br" tvg-name="HBO Mundi HD" tvg-logo="https://od.lk/s/NzdfNTg1NjQxNjdf/hbomundi.png" group-title="C • HBO",HBO Mundi HD
+http://axshield.xyz:80/054094807/220900798/14346718
+#EXTINF:-1 tvg-id="hbomundi.br" tvg-name="HBO Mundi SD" tvg-logo="https://od.lk/s/NzdfNTg1NjQxNjdf/hbomundi.png" group-title="C • HBO",HBO Mundi SD
+http://axshield.xyz:80/054094807/220900798/14346725
+#EXTINF:-1 tvg-id="hboplus.br" tvg-name="HBO Plus FHD" tvg-logo="https://od.lk/s/NzdfNTg1NjQxNjlf/hboplus.png" group-title="C • HBO",HBO Plus FHD
+http://axshield.xyz:80/054094807/220900798/14346711
+#EXTINF:-1 tvg-id="hboplus.br" tvg-name="HBO Plus HD" tvg-logo="https://od.lk/s/NzdfNTg1NjQxNjlf/hboplus.png" group-title="C • HBO",HBO Plus HD
+http://axshield.xyz:80/054094807/220900798/14346719
+#EXTINF:-1 tvg-id="hboplus.br" tvg-name="HBO Plus SD" tvg-logo="https://od.lk/s/NzdfNTg1NjQxNjlf/hboplus.png" group-title="C • HBO",HBO Plus SD
+http://axshield.xyz:80/054094807/220900798/14346726
+#EXTINF:-1 tvg-id="hbopop.br" tvg-name="HBO Pop FHD" tvg-logo="https://od.lk/s/NzdfNTg1NjQxNzFf/hbopop.png" group-title="C • HBO",HBO Pop FHD
+http://axshield.xyz:80/054094807/220900798/14346712
+#EXTINF:-1 tvg-id="hbopop.br" tvg-name="HBO Pop HD" tvg-logo="https://od.lk/s/NzdfNTg1NjQxNzFf/hbopop.png" group-title="C • HBO",HBO Pop HD
+http://axshield.xyz:80/054094807/220900798/14346720
+#EXTINF:-1 tvg-id="hbopop.br" tvg-name="HBO Pop SD" tvg-logo="https://od.lk/s/NzdfNTg1NjQxNzFf/hbopop.png" group-title="C • HBO",HBO Pop SD
+http://axshield.xyz:80/054094807/220900798/14346727
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO SD" tvg-logo="https://od.lk/s/NzdfNTg1NjQxNThf/hbo.png" group-title="C • HBO",HBO SD
+http://axshield.xyz:80/054094807/220900798/14346728
+#EXTINF:-1 tvg-id="hbosignature.br" tvg-name="HBO Signature FHD" tvg-logo="https://od.lk/s/NzdfNTg1NjQxNzNf/hbosignature.png" group-title="C • HBO",HBO Signature FHD
+http://axshield.xyz:80/054094807/220900798/14346713
+#EXTINF:-1 tvg-id="hbosignature.br" tvg-name="HBO Signature HD" tvg-logo="https://od.lk/s/NzdfNTg1NjQxNzNf/hbosignature.png" group-title="C • HBO",HBO Signature HD
+http://axshield.xyz:80/054094807/220900798/14346721
+#EXTINF:-1 tvg-id="hbosignature.br" tvg-name="HBO Signature SD" tvg-logo="https://od.lk/s/NzdfNTg1NjQxNzNf/hbosignature.png" group-title="C • HBO",HBO Signature SD
+http://axshield.xyz:80/054094807/220900798/14346729
+#EXTINF:-1 tvg-id="hboxtreme.br" tvg-name="HBO Xtreme FHD" tvg-logo="https://od.lk/s/NzdfNTg1NjQxNzVf/hboxtreme.png" group-title="C • HBO",HBO Xtreme FHD
+http://axshield.xyz:80/054094807/220900798/14346714
+#EXTINF:-1 tvg-id="hboxtreme.br" tvg-name="HBO Xtreme HD" tvg-logo="https://od.lk/s/NzdfNTg1NjQxNzVf/hboxtreme.png" group-title="C • HBO",HBO Xtreme HD
+http://axshield.xyz:80/054094807/220900798/14346722
+#EXTINF:-1 tvg-id="hboxtreme.br" tvg-name="HBO Xtreme SD" tvg-logo="https://od.lk/s/NzdfNTg1NjQxNzVf/hboxtreme.png" group-title="C • HBO",HBO Xtreme SD
+http://axshield.xyz:80/054094807/220900798/14346730
+#EXTINF:-1 tvg-id="" tvg-name="Helida Silva" tvg-logo="https://meuplayer.tv.br/boxtv/onlyfans.jpg" group-title="C • 24 Horas • XXX OnlyFans +18",Helida Silva
+http://axshield.xyz:80/054094807/220900798/14345763
+#EXTINF:-1 tvg-id="" tvg-name="Hentai #01" tvg-logo="https://icons24h.info/logo/XXX/S08E008.jpg" group-title="C • 24 Horas • XXX Adultos +18",Hentai #01
+http://axshield.xyz:80/054094807/220900798/14345681
+#EXTINF:-1 tvg-id="" tvg-name="Hentai #02" tvg-logo="https://icons24h.info/logo/XXX/S08E008.jpg" group-title="C • 24 Horas • XXX Adultos +18",Hentai #02
+http://axshield.xyz:80/054094807/220900798/14345682
+#EXTINF:-1 tvg-id="" tvg-name="Hentai #03" tvg-logo="https://icons24h.info/logo/XXX/S08E008.jpg" group-title="C • 24 Horas • XXX Adultos +18",Hentai #03
+http://axshield.xyz:80/054094807/220900798/14345683
+#EXTINF:-1 tvg-id="" tvg-name="Hentai #04" tvg-logo="https://icons24h.info/logo/XXX/S08E008.jpg" group-title="C • 24 Horas • XXX Adultos +18",Hentai #04
+http://axshield.xyz:80/054094807/220900798/14345684
+#EXTINF:-1 tvg-id="" tvg-name="Hetero Anal #01" tvg-logo="https://icons24h.info/logo/XXX/S08E004.jpg" group-title="C • 24 Horas • XXX Adultos +18",Hetero Anal #01
+http://axshield.xyz:80/054094807/220900798/14345685
+#EXTINF:-1 tvg-id="" tvg-name="Hetero Anal #02" tvg-logo="https://icons24h.info/logo/XXX/S08E004.jpg" group-title="C • 24 Horas • XXX Adultos +18",Hetero Anal #02
+http://axshield.xyz:80/054094807/220900798/14345686
+#EXTINF:-1 tvg-id="" tvg-name="Hetero Anal #03" tvg-logo="https://icons24h.info/logo/XXX/S08E004.jpg" group-title="C • 24 Horas • XXX Adultos +18",Hetero Anal #03
+http://axshield.xyz:80/054094807/220900798/14345687
+#EXTINF:-1 tvg-id="" tvg-name="Hetero Brasilbimbos" tvg-logo="https://icons24h.info/logo/XXX/S08E004.jpg" group-title="C • 24 Horas • XXX Adultos +18",Hetero Brasilbimbos
+http://axshield.xyz:80/054094807/220900798/14345699
+#EXTINF:-1 tvg-id="" tvg-name="Hetero Brasileirinhas #01" tvg-logo="https://icons24h.info/logo/XXX/S08E004.jpg" group-title="C • 24 Horas • XXX Adultos +18",Hetero Brasileirinhas #01
+http://axshield.xyz:80/054094807/220900798/14345688
+#EXTINF:-1 tvg-id="" tvg-name="Hetero Brasileirinhas #02" tvg-logo="https://icons24h.info/logo/XXX/S08E004.jpg" group-title="C • 24 Horas • XXX Adultos +18",Hetero Brasileirinhas #02
+http://axshield.xyz:80/054094807/220900798/14345689
+#EXTINF:-1 tvg-id="" tvg-name="Hetero Brasileirinhas #03" tvg-logo="https://icons24h.info/logo/XXX/S08E004.jpg" group-title="C • 24 Horas • XXX Adultos +18",Hetero Brasileirinhas #03
+http://axshield.xyz:80/054094807/220900798/14345690
+#EXTINF:-1 tvg-id="" tvg-name="Hetero Brazzersexxtra #01" tvg-logo="https://icons24h.info/logo/XXX/S08E004.jpg" group-title="C • 24 Horas • XXX Adultos +18",Hetero Brazzersexxtra #01
+http://axshield.xyz:80/054094807/220900798/14345691
+#EXTINF:-1 tvg-id="" tvg-name="Hetero Brazzersexxtra #02" tvg-logo="https://icons24h.info/logo/XXX/S08E004.jpg" group-title="C • 24 Horas • XXX Adultos +18",Hetero Brazzersexxtra #02
+http://axshield.xyz:80/054094807/220900798/14345692
+#EXTINF:-1 tvg-id="" tvg-name="Hetero Brazzersexxtra #03" tvg-logo="https://icons24h.info/logo/XXX/S08E004.jpg" group-title="C • 24 Horas • XXX Adultos +18",Hetero Brazzersexxtra #03
+http://axshield.xyz:80/054094807/220900798/14345693
+#EXTINF:-1 tvg-id="" tvg-name="Hetero Brazzersexxtra #04" tvg-logo="https://icons24h.info/logo/XXX/S08E004.jpg" group-title="C • 24 Horas • XXX Adultos +18",Hetero Brazzersexxtra #04
+http://axshield.xyz:80/054094807/220900798/14345694
+#EXTINF:-1 tvg-id="" tvg-name="Hetero Brazzersexxtra #05" tvg-logo="https://icons24h.info/logo/XXX/S08E004.jpg" group-title="C • 24 Horas • XXX Adultos +18",Hetero Brazzersexxtra #05
+http://axshield.xyz:80/054094807/220900798/14345695
+#EXTINF:-1 tvg-id="" tvg-name="Hetero Casada" tvg-logo="https://icons24h.info/logo/XXX/S08E004.jpg" group-title="C • 24 Horas • XXX Adultos +18",Hetero Casada
+http://axshield.xyz:80/054094807/220900798/14345700
+#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV FHD" tvg-logo="https://od.lk/s/NzdfNTg1NjQxNzhf/hgtv.png" group-title="C • Documentários",HGTV FHD
+http://axshield.xyz:80/054094807/220900798/14346017
+#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV HD" tvg-logo="https://od.lk/s/NzdfNTg1NjQxNzhf/hgtv.png" group-title="C • Documentários",HGTV HD
+http://axshield.xyz:80/054094807/220900798/14346030
+#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV SD" tvg-logo="https://od.lk/s/NzdfNTg1NjQxNzhf/hgtv.png" group-title="C • Documentários",HGTV SD
+http://axshield.xyz:80/054094807/220900798/14346043
+#EXTINF:-1 tvg-id="history2.br" tvg-name="History 2 FHD" tvg-logo="https://od.lk/s/NzdfNTg1NjQxODZf/history2.png" group-title="C • Documentários",History 2 FHD
+http://axshield.xyz:80/054094807/220900798/14346018
+#EXTINF:-1 tvg-id="history2.br" tvg-name="History 2 HD" tvg-logo="https://od.lk/s/NzdfNTg1NjQxODZf/history2.png" group-title="C • Documentários",History 2 HD
+http://axshield.xyz:80/054094807/220900798/14346031
+#EXTINF:-1 tvg-id="history2.br" tvg-name="History 2 SD" tvg-logo="https://od.lk/s/NzdfNTg1NjQxODZf/history2.png" group-title="C • Documentários",History 2 SD
+http://axshield.xyz:80/054094807/220900798/14346044
+#EXTINF:-1 tvg-id="history2.br" tvg-name="History FHD" tvg-logo="https://od.lk/s/NzdfNTg1NjQxODRf/history.png" group-title="C • Documentários",History FHD
+http://axshield.xyz:80/054094807/220900798/14346019
+#EXTINF:-1 tvg-id="history2.br" tvg-name="History HD" tvg-logo="https://od.lk/s/NzdfNTg1NjQxODRf/history.png" group-title="C • Documentários",History HD
+http://axshield.xyz:80/054094807/220900798/14346032
+#EXTINF:-1 tvg-id="history2.br" tvg-name="History SD" tvg-logo="https://od.lk/s/NzdfNTg1NjQxODRf/history.png" group-title="C • Documentários",History SD
+http://axshield.xyz:80/054094807/220900798/14346045
+#EXTINF:-1 tvg-id="" tvg-name="Homossexual Masculino 01" tvg-logo="https://icons24h.info/logo/XXX/S08E004.jpg" group-title="C • 24 Horas • XXX Adultos +18",Homossexual Masculino 01
+http://axshield.xyz:80/054094807/220900798/14345712
+#EXTINF:-1 tvg-id="" tvg-name="Homossexual Masculino 02" tvg-logo="https://icons24h.info/logo/XXX/S08E004.jpg" group-title="C • 24 Horas • XXX Adultos +18",Homossexual Masculino 02
+http://axshield.xyz:80/054094807/220900798/14345713
+#EXTINF:-1 tvg-id="" tvg-name="Homossexual Masculino 03" tvg-logo="https://icons24h.info/logo/XXX/S08E004.jpg" group-title="C • 24 Horas • XXX Adultos +18",Homossexual Masculino 03
+http://axshield.xyz:80/054094807/220900798/14345714
+#EXTINF:-1 tvg-id="investigaçãodiscovery.br" tvg-name="ID Investigacao Discovery FHD" tvg-logo="https://od.lk/s/NzdfNTg1NjQwMTVf/discoveryid.png" group-title="C • Documentários",ID Investigacao Discovery FHD
+http://axshield.xyz:80/054094807/220900798/14346020
+#EXTINF:-1 tvg-id="investigaçãodiscovery.br" tvg-name="ID Investigacao Discovery HD" tvg-logo="https://od.lk/s/NzdfNTg1NjQwMTVf/discoveryid.png" group-title="C • Documentários",ID Investigacao Discovery HD
+http://axshield.xyz:80/054094807/220900798/14346033
+#EXTINF:-1 tvg-id="investigaçãodiscovery.br" tvg-name="ID Investigacao Discovery SD" tvg-logo="https://od.lk/s/NzdfNTg1NjQwMTVf/discoveryid.png" group-title="C • Documentários",ID Investigacao Discovery SD
+http://axshield.xyz:80/054094807/220900798/14346046
+#EXTINF:-1 tvg-id="" tvg-name="Ideal TV HD" tvg-logo="https://od.lk/s/NzdfNTg1NjQxOTlf/idealtv.png" group-title="C • Religioso",Ideal TV HD
+http://axshield.xyz:80/054094807/220900798/14347197
+#EXTINF:-1 tvg-id="" tvg-name="Ideal TV SD" tvg-logo="https://od.lk/s/NzdfNTg1NjQxOTlf/idealtv.png" group-title="C • Religioso",Ideal TV SD
+http://axshield.xyz:80/054094807/220900798/14347215
+#EXTINF:-1 tvg-id="" tvg-name="Igreja Mundial HD" tvg-logo="https://od.lk/s/NzdfNTg1NjQyMDBf/impdtv.png" group-title="C • Religioso",Igreja Mundial HD
+http://axshield.xyz:80/054094807/220900798/14347198
+#EXTINF:-1 tvg-id="" tvg-name="Igreja Mundial SD" tvg-logo="https://od.lk/s/NzdfNTg1NjQyMDBf/impdtv.png" group-title="C • Religioso",Igreja Mundial SD
+http://axshield.xyz:80/054094807/220900798/14347216
+#EXTINF:-1 tvg-id="" tvg-name="Igreja Universal HD" tvg-logo="https://od.lk/s/NzdfNTg1NjQyMDJf/iurd.png" group-title="C • Religioso",Igreja Universal HD
+http://axshield.xyz:80/054094807/220900798/14347199
+#EXTINF:-1 tvg-id="" tvg-name="Igreja Universal SD" tvg-logo="https://od.lk/s/NzdfNTg1NjQyMDJf/iurd.png" group-title="C • Religioso",Igreja Universal SD
+http://axshield.xyz:80/054094807/220900798/14347217
+#EXTINF:-1 tvg-id="" tvg-name="Isadora Rockenback" tvg-logo="https://meuplayer.tv.br/boxtv/onlyfans.jpg" group-title="C • 24 Horas • XXX OnlyFans +18",Isadora Rockenback
+http://axshield.xyz:80/054094807/220900798/14345764
+#EXTINF:-1 tvg-id="" tvg-name="Jacqueline Darley" tvg-logo="https://meuplayer.tv.br/boxtv/onlyfans.jpg" group-title="C • 24 Horas • XXX OnlyFans +18",Jacqueline Darley
+http://axshield.xyz:80/054094807/220900798/14345765
+#EXTINF:-1 tvg-id="" tvg-name="Jaiane Limma" tvg-logo="https://meuplayer.tv.br/boxtv/onlyfans.jpg" group-title="C • 24 Horas • XXX OnlyFans +18",Jaiane Limma
+http://axshield.xyz:80/054094807/220900798/14345766
+#EXTINF:-1 tvg-id="" tvg-name="Jamilly Carvalho" tvg-logo="https://meuplayer.tv.br/boxtv/onlyfans.jpg" group-title="C • 24 Horas • XXX OnlyFans +18",Jamilly Carvalho
+http://axshield.xyz:80/054094807/220900798/14345767
+#EXTINF:-1 tvg-id="" tvg-name="Janna Jenner" tvg-logo="https://meuplayer.tv.br/boxtv/onlyfans.jpg" group-title="C • 24 Horas • XXX OnlyFans +18",Janna Jenner
+http://axshield.xyz:80/054094807/220900798/14345768
+#EXTINF:-1 tvg-id="" tvg-name="Japa Ale" tvg-logo="https://meuplayer.tv.br/boxtv/onlyfans.jpg" group-title="C • 24 Horas • XXX OnlyFans +18",Japa Ale
+http://axshield.xyz:80/054094807/220900798/14345769
+#EXTINF:-1 tvg-id="" tvg-name="Japonesa" tvg-logo="https://meuplayer.tv.br/boxtv/onlyfans.jpg" group-title="C • 24 Horas • XXX OnlyFans +18",Japonesa
+http://axshield.xyz:80/054094807/220900798/14345770
+#EXTINF:-1 tvg-id="" tvg-name="Jaqueline Nunes" tvg-logo="https://meuplayer.tv.br/boxtv/onlyfans.jpg" group-title="C • 24 Horas • XXX OnlyFans +18",Jaqueline Nunes
+http://axshield.xyz:80/054094807/220900798/14345771
+#EXTINF:-1 tvg-id="" tvg-name="Jeangrey Bianca" tvg-logo="https://meuplayer.tv.br/boxtv/onlyfans.jpg" group-title="C • 24 Horas • XXX OnlyFans +18",Jeangrey Bianca
+http://axshield.xyz:80/054094807/220900798/14345772
+#EXTINF:-1 tvg-id="" tvg-name="Jelly Beans Brains" tvg-logo="https://meuplayer.tv.br/boxtv/onlyfans.jpg" group-title="C • 24 Horas • XXX OnlyFans +18",Jelly Beans Brains
+http://axshield.xyz:80/054094807/220900798/14345773
+#EXTINF:-1 tvg-id="" tvg-name="Jennifer Fabri" tvg-logo="https://meuplayer.tv.br/boxtv/onlyfans.jpg" group-title="C • 24 Horas • XXX OnlyFans +18",Jennifer Fabri
+http://axshield.xyz:80/054094807/220900798/14345774
+#EXTINF:-1 tvg-id="jovempannews.br" tvg-name="Jovem Pan News FHD" tvg-logo="https://od.lk/s/NzdfNTg1NjQyMDVf/jpnews.png" group-title="C • Notícias",Jovem Pan News FHD
+http://axshield.xyz:80/054094807/220900798/14346808
+#EXTINF:-1 tvg-id="jovempannews.br" tvg-name="Jovem Pan News HD" tvg-logo="https://od.lk/s/NzdfNTg1NjQyMDVf/jpnews.png" group-title="C • Notícias",Jovem Pan News HD
+http://axshield.xyz:80/054094807/220900798/14346826
+#EXTINF:-1 tvg-id="jovempannews.br" tvg-name="Jovem Pan News SD" tvg-logo="https://od.lk/s/NzdfNTg1NjQyMDVf/jpnews.png" group-title="C • Notícias",Jovem Pan News SD
+http://axshield.xyz:80/054094807/220900798/14346836
+#EXTINF:-1 tvg-id="" tvg-name="Juliana Bonde" tvg-logo="https://meuplayer.tv.br/boxtv/onlyfans.jpg" group-title="C • 24 Horas • XXX OnlyFans +18",Juliana Bonde
+http://axshield.xyz:80/054094807/220900798/14345775
+#EXTINF:-1 tvg-id="" tvg-name="Julinha Gouveia" tvg-logo="https://meuplayer.tv.br/boxtv/onlyfans.jpg" group-title="C • 24 Horas • XXX OnlyFans +18",Julinha Gouveia
+http://axshield.xyz:80/054094807/220900798/14345776
+#EXTINF:-1 tvg-id="" tvg-name="Jully Queiroz" tvg-logo="https://meuplayer.tv.br/boxtv/onlyfans.jpg" group-title="C • 24 Horas • XXX OnlyFans +18",Jully Queiroz
+http://axshield.xyz:80/054094807/220900798/14345777
+#EXTINF:-1 tvg-id="" tvg-name="Karen Khalifa" tvg-logo="https://meuplayer.tv.br/boxtv/onlyfans.jpg" group-title="C • 24 Horas • XXX OnlyFans +18",Karen Khalifa
+http://axshield.xyz:80/054094807/220900798/14345778
+#EXTINF:-1 tvg-id="" tvg-name="Karen Oliver" tvg-logo="https://meuplayer.tv.br/boxtv/onlyfans.jpg" group-title="C • 24 Horas • XXX OnlyFans +18",Karen Oliver
+http://axshield.xyz:80/054094807/220900798/14345779
+#EXTINF:-1 tvg-id="" tvg-name="Karyanne Menezes" tvg-logo="https://meuplayer.tv.br/boxtv/onlyfans.jpg" group-title="C • 24 Horas • XXX OnlyFans +18",Karyanne Menezes
+http://axshield.xyz:80/054094807/220900798/14345780
+#EXTINF:-1 tvg-id="" tvg-name="Ketlin Groisman" tvg-logo="https://meuplayer.tv.br/boxtv/onlyfans.jpg" group-title="C • 24 Horas • XXX OnlyFans +18",Ketlin Groisman
+http://axshield.xyz:80/054094807/220900798/14345781
+#EXTINF:-1 tvg-id="" tvg-name="Kings League" tvg-logo="https://od.lk/d/NzdfNjA3MDE5Nzlf/kingsleague.png" group-title="C • Esportes Pay-Per-View",Kings League
+http://axshield.xyz:80/054094807/220900798/14346125
+#EXTINF:-1 tvg-id="" tvg-name="Lais Carolina Dias" tvg-logo="https://meuplayer.tv.br/boxtv/onlyfans.jpg" group-title="C • 24 Horas • XXX OnlyFans +18",Lais Carolina Dias
+http://axshield.xyz:80/054094807/220900798/14345782
+#EXTINF:-1 tvg-id="" tvg-name="Lara Ruiva" tvg-logo="https://meuplayer.tv.br/boxtv/onlyfans.jpg" group-title="C • 24 Horas • XXX OnlyFans +18",Lara Ruiva
+http://axshield.xyz:80/054094807/220900798/14345783
+#EXTINF:-1 tvg-id="" tvg-name="Larissa Sumpani" tvg-logo="https://meuplayer.tv.br/boxtv/onlyfans.jpg" group-title="C • 24 Horas • XXX OnlyFans +18",Larissa Sumpani
+http://axshield.xyz:80/054094807/220900798/14345784
+#EXTINF:-1 tvg-id="" tvg-name="Lary Cubas" tvg-logo="https://meuplayer.tv.br/boxtv/onlyfans.jpg" group-title="C • 24 Horas • XXX OnlyFans +18",Lary Cubas
+http://axshield.xyz:80/054094807/220900798/14345785
+#EXTINF:-1 tvg-id="" tvg-name="Laura Lin" tvg-logo="https://meuplayer.tv.br/boxtv/onlyfans.jpg" group-title="C • 24 Horas • XXX OnlyFans +18",Laura Lin
+http://axshield.xyz:80/054094807/220900798/14345786
+#EXTINF:-1 tvg-id="" tvg-name="Layz Resende" tvg-logo="https://meuplayer.tv.br/boxtv/onlyfans.jpg" group-title="C • 24 Horas • XXX OnlyFans +18",Layz Resende
+http://axshield.xyz:80/054094807/220900798/14345787
+#EXTINF:-1 tvg-id="lifetime.br" tvg-name="Lifetime FHD" tvg-logo="https://od.lk/s/NzdfNTg1NjQyMThf/lifetime.png" group-title="C • Filmes & Séries",Lifetime FHD
+http://axshield.xyz:80/054094807/220900798/14346211
+#EXTINF:-1 tvg-id="lifetime.br" tvg-name="Lifetime HD" tvg-logo="https://od.lk/s/NzdfNTg1NjQyMThf/lifetime.png" group-title="C • Filmes & Séries",Lifetime HD
+http://axshield.xyz:80/054094807/220900798/14346233
+#EXTINF:-1 tvg-id="lifetime.br" tvg-name="Lifetime SD" tvg-logo="https://od.lk/s/NzdfNTg1NjQyMThf/lifetime.png" group-title="C • Filmes & Séries",Lifetime SD
+http://axshield.xyz:80/054094807/220900798/14346255
+#EXTINF:-1 tvg-id="" tvg-name="Liga Futsal 1" tvg-logo="https://od.lk/s/NzdfNTg1NjQxMDlf/futsal.png" group-title="C • Esportes Pay-Per-View",Liga Futsal 1
+http://axshield.xyz:80/054094807/220900798/14346113
+#EXTINF:-1 tvg-id="" tvg-name="Liga Futsal 2" tvg-logo="https://od.lk/s/NzdfNTg1NjQxMDlf/futsal.png" group-title="C • Esportes Pay-Per-View",Liga Futsal 2
+http://axshield.xyz:80/054094807/220900798/14346114
+#EXTINF:-1 tvg-id="" tvg-name="Liga Futsal 3" tvg-logo="https://od.lk/s/NzdfNTg1NjQxMDlf/futsal.png" group-title="C • Esportes Pay-Per-View",Liga Futsal 3
+http://axshield.xyz:80/054094807/220900798/14346115
+#EXTINF:-1 tvg-id="" tvg-name="Liga Futsal 4" tvg-logo="https://od.lk/s/NzdfNTg1NjQxMDlf/futsal.png" group-title="C • Esportes Pay-Per-View",Liga Futsal 4
+http://axshield.xyz:80/054094807/220900798/14346116
+#EXTINF:-1 tvg-id="" tvg-name="Lorrana Joyce" tvg-logo="https://meuplayer.tv.br/boxtv/onlyfans.jpg" group-title="C • 24 Horas • XXX OnlyFans +18",Lorrana Joyce
+http://axshield.xyz:80/054094807/220900798/14345788
+#EXTINF:-1 tvg-id="" tvg-name="Luana Couto" tvg-logo="https://meuplayer.tv.br/boxtv/onlyfans.jpg" group-title="C • 24 Horas • XXX OnlyFans +18",Luana Couto
+http://axshield.xyz:80/054094807/220900798/14345789
+#EXTINF:-1 tvg-id="" tvg-name="Luana Kazaki" tvg-logo="https://meuplayer.tv.br/boxtv/onlyfans.jpg" group-title="C • 24 Horas • XXX OnlyFans +18",Luana Kazaki
+http://axshield.xyz:80/054094807/220900798/14345790
+#EXTINF:-1 tvg-id="" tvg-name="Maikelly Muhl" tvg-logo="https://meuplayer.tv.br/boxtv/onlyfans.jpg" group-title="C • 24 Horas • XXX OnlyFans +18",Maikelly Muhl
+http://axshield.xyz:80/054094807/220900798/14345791
+#EXTINF:-1 tvg-id="" tvg-name="Maisa Pravo" tvg-logo="https://meuplayer.tv.br/boxtv/onlyfans.jpg" group-title="C • 24 Horas • XXX OnlyFans +18",Maisa Pravo
+http://axshield.xyz:80/054094807/220900798/14345792
+#EXTINF:-1 tvg-id="" tvg-name="Malelly" tvg-logo="https://meuplayer.tv.br/boxtv/onlyfans.jpg" group-title="C • 24 Horas • XXX OnlyFans +18",Malelly
+http://axshield.xyz:80/054094807/220900798/14345793
+#EXTINF:-1 tvg-id="" tvg-name="Mandy Sweet" tvg-logo="https://meuplayer.tv.br/boxtv/onlyfans.jpg" group-title="C • 24 Horas • XXX OnlyFans +18",Mandy Sweet
+http://axshield.xyz:80/054094807/220900798/14345794
+#EXTINF:-1 tvg-id="" tvg-name="Marcia Imperator" tvg-logo="https://meuplayer.tv.br/boxtv/onlyfans.jpg" group-title="C • 24 Horas • XXX OnlyFans +18",Marcia Imperator
+http://axshield.xyz:80/054094807/220900798/14345795
+#EXTINF:-1 tvg-id="" tvg-name="Mari Avila" tvg-logo="https://meuplayer.tv.br/boxtv/onlyfans.jpg" group-title="C • 24 Horas • XXX OnlyFans +18",Mari Avila
+http://axshield.xyz:80/054094807/220900798/14345796
+#EXTINF:-1 tvg-id="" tvg-name="Mari Casada" tvg-logo="https://meuplayer.tv.br/boxtv/onlyfans.jpg" group-title="C • 24 Horas • XXX OnlyFans +18",Mari Casada
+http://axshield.xyz:80/054094807/220900798/14345797
+#EXTINF:-1 tvg-id="" tvg-name="Mari Reis" tvg-logo="https://meuplayer.tv.br/boxtv/onlyfans.jpg" group-title="C • 24 Horas • XXX OnlyFans +18",Mari Reis
+http://axshield.xyz:80/054094807/220900798/14345798
+#EXTINF:-1 tvg-id="" tvg-name="Martina Oliveira" tvg-logo="https://meuplayer.tv.br/boxtv/onlyfans.jpg" group-title="C • 24 Horas • XXX OnlyFans +18",Martina Oliveira
+http://axshield.xyz:80/054094807/220900798/14345799
+#EXTINF:-1 tvg-id="" tvg-name="MC Mirella" tvg-logo="https://meuplayer.tv.br/boxtv/onlyfans.jpg" group-title="C • 24 Horas • XXX OnlyFans +18",MC Mirella
+http://axshield.xyz:80/054094807/220900798/14345800
+#EXTINF:-1 tvg-id="" tvg-name="MC Raposinha" tvg-logo="https://meuplayer.tv.br/boxtv/onlyfans.jpg" group-title="C • 24 Horas • XXX OnlyFans +18",MC Raposinha
+http://axshield.xyz:80/054094807/220900798/14345801
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="Megapix FHD" tvg-logo="https://od.lk/s/NzdfNTg1NjQyMzJf/megapix.png" group-title="C • Filmes & Séries",Megapix FHD
+http://axshield.xyz:80/054094807/220900798/14346212
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="Megapix HD" tvg-logo="https://od.lk/s/NzdfNTg1NjQyMzJf/megapix.png" group-title="C • Filmes & Séries",Megapix HD
+http://axshield.xyz:80/054094807/220900798/14346234
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="Megapix SD" tvg-logo="https://od.lk/s/NzdfNTg1NjQyMzJf/megapix.png" group-title="C • Filmes & Séries",Megapix SD
+http://axshield.xyz:80/054094807/220900798/14346256
+#EXTINF:-1 tvg-id="" tvg-name="Milahot" tvg-logo="https://meuplayer.tv.br/boxtv/onlyfans.jpg" group-title="C • 24 Horas • XXX OnlyFans +18",Milahot
+http://axshield.xyz:80/054094807/220900798/14345802
+#EXTINF:-1 tvg-id="" tvg-name="Milly Moura Dancarina DJ Lucas" tvg-logo="https://meuplayer.tv.br/boxtv/onlyfans.jpg" group-title="C • 24 Horas • XXX OnlyFans +18",Milly Moura Dancarina DJ Lucas
+http://axshield.xyz:80/054094807/220900798/14345803
+#EXTINF:-1 tvg-id="" tvg-name="Mimi Boliviana" tvg-logo="https://meuplayer.tv.br/boxtv/onlyfans.jpg" group-title="C • 24 Horas • XXX OnlyFans +18",Mimi Boliviana
+http://axshield.xyz:80/054094807/220900798/14345804
+#EXTINF:-1 tvg-id="" tvg-name="Mini Gabys" tvg-logo="https://meuplayer.tv.br/boxtv/onlyfans.jpg" group-title="C • 24 Horas • XXX OnlyFans +18",Mini Gabys
+http://axshield.xyz:80/054094807/220900798/14345805
+#EXTINF:-1 tvg-id="" tvg-name="Miss Carlett" tvg-logo="https://meuplayer.tv.br/boxtv/onlyfans.jpg" group-title="C • 24 Horas • XXX OnlyFans +18",Miss Carlett
+http://axshield.xyz:80/054094807/220900798/14345806
+#EXTINF:-1 tvg-id="modoviagem.br" tvg-name="Modo Viagem FHD" tvg-logo="https://od.lk/s/NzdfNTg1NjQyMzhf/modoviagem.png" group-title="C • Variedades",Modo Viagem FHD
+http://axshield.xyz:80/054094807/220900798/14347326
+#EXTINF:-1 tvg-id="modoviagem.br" tvg-name="Modo Viagem HD" tvg-logo="https://od.lk/s/NzdfNTg1NjQyMzhf/modoviagem.png" group-title="C • Variedades",Modo Viagem HD
+http://axshield.xyz:80/054094807/220900798/14347350
+#EXTINF:-1 tvg-id="modoviagem.br" tvg-name="Modo Viagem SD" tvg-logo="https://od.lk/s/NzdfNTg1NjQyMzhf/modoviagem.png" group-title="C • Variedades",Modo Viagem SD
+http://axshield.xyz:80/054094807/220900798/14347373
+#EXTINF:-1 tvg-id="" tvg-name="Monique Bertolini" tvg-logo="https://meuplayer.tv.br/boxtv/onlyfans.jpg" group-title="C • 24 Horas • XXX OnlyFans +18",Monique Bertolini
+http://axshield.xyz:80/054094807/220900798/14345807
+#EXTINF:-1 tvg-id="" tvg-name="MTV 00s FHD" tvg-logo="https://od.lk/s/NzdfNTg1NjQyNDVf/mtv00s.png" group-title="C • Variedades",MTV 00s FHD
+http://axshield.xyz:80/054094807/220900798/14347327
+#EXTINF:-1 tvg-id="" tvg-name="MTV 00s HD" tvg-logo="https://od.lk/s/NzdfNTg1NjQyNDVf/mtv00s.png" group-title="C • Variedades",MTV 00s HD
+http://axshield.xyz:80/054094807/220900798/14347351
+#EXTINF:-1 tvg-id="" tvg-name="MTV 00s SD" tvg-logo="https://od.lk/s/NzdfNTg1NjQyNDVf/mtv00s.png" group-title="C • Variedades",MTV 00s SD
+http://axshield.xyz:80/054094807/220900798/14347370
+#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV FHD" tvg-logo="https://od.lk/s/NzdfNTg1NjQyNDRf/mtv.png" group-title="C • Variedades",MTV FHD
+http://axshield.xyz:80/054094807/220900798/14347328
+#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV HD" tvg-logo="https://od.lk/s/NzdfNTg1NjQyNDRf/mtv.png" group-title="C • Variedades",MTV HD
+http://axshield.xyz:80/054094807/220900798/14347352
+#EXTINF:-1 tvg-id="mtvlive.br" tvg-name="MTV Live FHD" tvg-logo="https://od.lk/s/NzdfNTg1NjQyNDlf/mtvlive1.png" group-title="C • Variedades",MTV Live FHD
+http://axshield.xyz:80/054094807/220900798/14347329
+#EXTINF:-1 tvg-id="mtvlive.br" tvg-name="MTV Live HD" tvg-logo="https://od.lk/s/NzdfNTg1NjQyNDlf/mtvlive1.png" group-title="C • Variedades",MTV Live HD
+http://axshield.xyz:80/054094807/220900798/14347353
+#EXTINF:-1 tvg-id="mtvlive.br" tvg-name="MTV Live SD" tvg-logo="https://od.lk/s/NzdfNTg1NjQyNDlf/mtvlive1.png" group-title="C • Variedades",MTV Live SD
+http://axshield.xyz:80/054094807/220900798/14347371
+#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV SD" tvg-logo="https://od.lk/s/NzdfNTg1NjQyNDRf/mtv.png" group-title="C • Variedades",MTV SD
+http://axshield.xyz:80/054094807/220900798/14347372
+#EXTINF:-1 tvg-id="" tvg-name="Mulher Melao" tvg-logo="https://meuplayer.tv.br/boxtv/onlyfans.jpg" group-title="C • 24 Horas • XXX OnlyFans +18",Mulher Melao
+http://axshield.xyz:80/054094807/220900798/14345808
+#EXTINF:-1 tvg-id="multishow.br" tvg-name="Multishow FHD" tvg-logo="https://od.lk/s/NzdfNTg1NjQyNTFf/multishow.png" group-title="C • Variedades",Multishow FHD
+http://axshield.xyz:80/054094807/220900798/14347330
+#EXTINF:-1 tvg-id="multishow.br" tvg-name="Multishow HD" tvg-logo="https://od.lk/s/NzdfNTg1NjQyNTFf/multishow.png" group-title="C • Variedades",Multishow HD
+http://axshield.xyz:80/054094807/220900798/14347354
+#EXTINF:-1 tvg-id="multishow.br" tvg-name="Multishow SD" tvg-logo="https://od.lk/s/NzdfNTg1NjQyNTFf/multishow.png" group-title="C • Variedades",Multishow SD
+http://axshield.xyz:80/054094807/220900798/14347374
+#EXTINF:-1 tvg-id="musicboxbrasil.br" tvg-name="Music Box Brazil FHD" tvg-logo="https://od.lk/s/NzdfNTg1NjQyNThf/musicboxbrazil.png" group-title="C • Variedades",Music Box Brazil FHD
+http://axshield.xyz:80/054094807/220900798/14347331
+#EXTINF:-1 tvg-id="musicboxbrasil.br" tvg-name="Music Box Brazil HD" tvg-logo="https://od.lk/s/NzdfNTg1NjQyNThf/musicboxbrazil.png" group-title="C • Variedades",Music Box Brazil HD
+http://axshield.xyz:80/054094807/220900798/14347355
+#EXTINF:-1 tvg-id="musicboxbrasil.br" tvg-name="Music Box Brazil SD" tvg-logo="https://od.lk/s/NzdfNTg1NjQyNThf/musicboxbrazil.png" group-title="C • Variedades",Music Box Brazil SD
+http://axshield.xyz:80/054094807/220900798/14347375
+#EXTINF:-1 tvg-id="" tvg-name="Music Top FHD" tvg-logo="https://od.lk/s/NzdfNTg1NjQyNjJf/musictop1.png" group-title="C • Variedades",Music Top FHD
+http://axshield.xyz:80/054094807/220900798/14347332
+#EXTINF:-1 tvg-id="" tvg-name="Music Top HD" tvg-logo="https://od.lk/s/NzdfNTg1NjQyNjJf/musictop1.png" group-title="C • Variedades",Music Top HD
+http://axshield.xyz:80/054094807/220900798/14347356
+#EXTINF:-1 tvg-id="" tvg-name="Music Top SD" tvg-logo="https://od.lk/s/NzdfNTg1NjQyNjJf/musictop1.png" group-title="C • Variedades",Music Top SD
+http://axshield.xyz:80/054094807/220900798/14347376
+#EXTINF:-1 tvg-id="" tvg-name="Natacha Steffens" tvg-logo="https://meuplayer.tv.br/boxtv/onlyfans.jpg" group-title="C • 24 Horas • XXX OnlyFans +18",Natacha Steffens
+http://axshield.xyz:80/054094807/220900798/14345809
+#EXTINF:-1 tvg-id="" tvg-name="Natasha Naturista" tvg-logo="https://meuplayer.tv.br/boxtv/onlyfans.jpg" group-title="C • 24 Horas • XXX OnlyFans +18",Natasha Naturista
+http://axshield.xyz:80/054094807/220900798/14345810
+#EXTINF:-1 tvg-id="dummy-1126" tvg-name="NBA League Pass 1" tvg-logo="https://meuplayer.tv.br/lgs_btv/nba.png" group-title="C • NBA League Pass",NBA League Pass 1
+http://axshield.xyz:80/054094807/220900798/14346793
+#EXTINF:-1 tvg-id="dummy-1125" tvg-name="NBA League Pass 2" tvg-logo="https://meuplayer.tv.br/lgs_btv/nba.png" group-title="C • NBA League Pass",NBA League Pass 2
+http://axshield.xyz:80/054094807/220900798/14346794
+#EXTINF:-1 tvg-id="dummy-1124" tvg-name="NBA League Pass 3" tvg-logo="https://meuplayer.tv.br/lgs_btv/nba.png" group-title="C • NBA League Pass",NBA League Pass 3
+http://axshield.xyz:80/054094807/220900798/14346795
+#EXTINF:-1 tvg-id="dummy-1123" tvg-name="NBA League Pass 4" tvg-logo="https://meuplayer.tv.br/lgs_btv/nba.png" group-title="C • NBA League Pass",NBA League Pass 4
+http://axshield.xyz:80/054094807/220900798/14346796
+#EXTINF:-1 tvg-id="dummy-1122" tvg-name="NBA League Pass 5" tvg-logo="https://meuplayer.tv.br/lgs_btv/nba.png" group-title="C • NBA League Pass",NBA League Pass 5
+http://axshield.xyz:80/054094807/220900798/14346797
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Live Events 1" tvg-logo="https://meuplayer.tv.br/lgs_btv/netflix-live.png" group-title="C • NETFLIX Live Events",Netflix Live Events 1
+http://axshield.xyz:80/054094807/220900798/14346798
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Live Events 2" tvg-logo="https://meuplayer.tv.br/lgs_btv/netflix-live.png" group-title="C • NETFLIX Live Events",Netflix Live Events 2
+http://axshield.xyz:80/054094807/220900798/14346799
+#EXTINF:-1 tvg-id="" tvg-name="NGT HD" tvg-logo="https://od.lk/s/NzdfNTg5NDMxNDVf/ngt.png" group-title="C • Abertos",NGT HD
+http://axshield.xyz:80/054094807/220900798/14345842
+#EXTINF:-1 tvg-id="" tvg-name="NGT SD" tvg-logo="https://od.lk/s/NzdfNTg5NDMxNDVf/ngt.png" group-title="C • Abertos",NGT SD
+http://axshield.xyz:80/054094807/220900798/14345870
+#EXTINF:-1 tvg-id="nickjr..br" tvg-name="Nick Jr FHD" tvg-logo="https://od.lk/s/NzdfNTg1NjQyODdf/nickjr1.png" group-title="C • Infantil",Nick Jr FHD
+http://axshield.xyz:80/054094807/220900798/14346757
+#EXTINF:-1 tvg-id="nickjr..br" tvg-name="Nick Jr HD" tvg-logo="https://od.lk/s/NzdfNTg1NjQyODdf/nickjr1.png" group-title="C • Infantil",Nick Jr HD
+http://axshield.xyz:80/054094807/220900798/14346771
+#EXTINF:-1 tvg-id="nickjr..br" tvg-name="Nick Jr SD" tvg-logo="https://od.lk/s/NzdfNTg1NjQyODdf/nickjr1.png" group-title="C • Infantil",Nick Jr SD
+http://axshield.xyz:80/054094807/220900798/14346785
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon FHD" tvg-logo="https://od.lk/s/NzdfNTg1NjQyODNf/nick.png" group-title="C • Infantil",Nickelodeon FHD
+http://axshield.xyz:80/054094807/220900798/14346758
+#EXTINF:-1 tvg-id="dummy-648" tvg-name="NSports 1" tvg-logo="https://od.lk/s/NzdfNTg2NDIxNjZf/nsports.png" group-title="C • NSports",NSports 1
+http://axshield.xyz:80/054094807/220900798/14346845
+#EXTINF:-1 tvg-id="dummy-648" tvg-name="NSports 2" tvg-logo="https://od.lk/s/NzdfNTg2NDIxNjZf/nsports.png" group-title="C • NSports",NSports 2
+http://axshield.xyz:80/054094807/220900798/14346846
+#EXTINF:-1 tvg-id="dummy-648" tvg-name="NSports 3" tvg-logo="https://od.lk/s/NzdfNTg2NDIxNjZf/nsports.png" group-title="C • NSports",NSports 3
+http://axshield.xyz:80/054094807/220900798/14346847
+#EXTINF:-1 tvg-id="off.br" tvg-name="OFF FHD" tvg-logo="https://od.lk/s/NzdfNTg1NjM5NDFf/canaloff.png" group-title="C • Esportes",OFF FHD
+http://axshield.xyz:80/054094807/220900798/14346090
+#EXTINF:-1 tvg-id="off.br" tvg-name="OFF HD" tvg-logo="https://od.lk/s/NzdfNTg1NjM5NDFf/canaloff.png" group-title="C • Esportes",OFF HD
+http://axshield.xyz:80/054094807/220900798/14346095
+#EXTINF:-1 tvg-id="off.br" tvg-name="OFF SD" tvg-logo="https://od.lk/s/NzdfNTg1NjM5NDFf/canaloff.png" group-title="C • Esportes",OFF SD
+http://axshield.xyz:80/054094807/220900798/14346100
+#EXTINF:-1 tvg-id="" tvg-name="Olympia TV" tvg-logo="https://od.lk/s/NzdfNTg1NjQzMDFf/olympiia.png" group-title="C • Esportes Pay-Per-View",Olympia TV
+http://axshield.xyz:80/054094807/220900798/14346117
+#EXTINF:-1 tvg-id="dummy-653" tvg-name="One Football 1" tvg-logo="https://od.lk/s/NzdfNTg1NjQzMDJf/onefootbol.png" group-title="C • One Football",One Football 1
+http://axshield.xyz:80/054094807/220900798/14346848
+#EXTINF:-1 tvg-id="dummy-654" tvg-name="One Football 2" tvg-logo="https://od.lk/s/NzdfNTg1NjQzMDJf/onefootbol.png" group-title="C • One Football",One Football 2
+http://axshield.xyz:80/054094807/220900798/14346849
+#EXTINF:-1 tvg-id="dummy-655" tvg-name="One Football 3" tvg-logo="https://od.lk/s/NzdfNTg1NjQzMDJf/onefootbol.png" group-title="C • One Football",One Football 3
+http://axshield.xyz:80/054094807/220900798/14346850
+#EXTINF:-1 tvg-id="dummy-656" tvg-name="One Football 4" tvg-logo="https://od.lk/s/NzdfNTg1NjQzMDJf/onefootbol.png" group-title="C • One Football",One Football 4
+http://axshield.xyz:80/054094807/220900798/14346851
+#EXTINF:-1 tvg-id="" tvg-name="PAMELA A MAIOR BUCETA DO BRASIL" tvg-logo="https://meuplayer.tv.br/boxtv/onlyfans.jpg" group-title="C • 24 Horas • XXX OnlyFans +18",PAMELA A MAIOR BUCETA DO BRASIL
+http://axshield.xyz:80/054094807/220900798/14345811
+#EXTINF:-1 tvg-id="" tvg-name="Papão TV" tvg-logo="https://od.lk/s/NzdfNTk3ODg5NjFf/papaotv.png" group-title="C • Esportes Pay-Per-View",Papão TV
+http://axshield.xyz:80/054094807/220900798/14346124
+#EXTINF:-1 tvg-id="" tvg-name="Paramount Network FHD" tvg-logo="https://od.lk/s/NzdfNTg1NjQzMThf/paramount.png" group-title="C • Filmes & Séries",Paramount Network FHD
+http://axshield.xyz:80/054094807/220900798/14346213
+#EXTINF:-1 tvg-id="" tvg-name="Paramount Network HD" tvg-logo="https://od.lk/s/NzdfNTg1NjQzMThf/paramount.png" group-title="C • Filmes & Séries",Paramount Network HD
+http://axshield.xyz:80/054094807/220900798/14346235
+#EXTINF:-1 tvg-id="" tvg-name="Paramount Network SD" tvg-logo="https://od.lk/s/NzdfNTg1NjQzMThf/paramount.png" group-title="C • Filmes & Séries",Paramount Network SD
+http://axshield.xyz:80/054094807/220900798/14346257
+#EXTINF:-1 tvg-id="" tvg-name="Paramount+ Sports 1" tvg-logo="https://od.lk/s/NzdfNTg1NjQzMjFf/paramountplus.png" group-title="C • Paramount+ Sports",Paramount+ Sports 1
+http://axshield.xyz:80/054094807/220900798/14346852
+#EXTINF:-1 tvg-id="" tvg-name="Paramount+ Sports 2" tvg-logo="https://od.lk/s/NzdfNTg1NjQzMjFf/paramountplus.png" group-title="C • Paramount+ Sports",Paramount+ Sports 2
+http://axshield.xyz:80/054094807/220900798/14346853
+#EXTINF:-1 tvg-id="" tvg-name="Paramount+ Sports 3" tvg-logo="https://od.lk/s/NzdfNTg1NjQzMjFf/paramountplus.png" group-title="C • Paramount+ Sports",Paramount+ Sports 3
+http://axshield.xyz:80/054094807/220900798/14346854
+#EXTINF:-1 tvg-id="" tvg-name="Paramount+ Sports 4" tvg-logo="https://od.lk/s/NzdfNTg1NjQzMjFf/paramountplus.png" group-title="C • Paramount+ Sports",Paramount+ Sports 4
+http://axshield.xyz:80/054094807/220900798/14346855
+#EXTINF:-1 tvg-id="" tvg-name="Play TV HD" tvg-logo="https://od.lk/s/NzdfNTg1NjQzMzBf/playtv.png" group-title="C • Abertos",Play TV HD
+http://axshield.xyz:80/054094807/220900798/14345843
+#EXTINF:-1 tvg-id="" tvg-name="Play TV SD" tvg-logo="https://od.lk/s/NzdfNTg1NjQzMzBf/playtv.png" group-title="C • Abertos",Play TV SD
+http://axshield.xyz:80/054094807/220900798/14345871
+#EXTINF:-1 tvg-id="" tvg-name="Pocahontas Carioca" tvg-logo="https://meuplayer.tv.br/boxtv/onlyfans.jpg" group-title="C • 24 Horas • XXX OnlyFans +18",Pocahontas Carioca
+http://axshield.xyz:80/054094807/220900798/14345812
+#EXTINF:-1 tvg-id="" tvg-name="Polishop TV FHD" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NDdf/polishop.png" group-title="C • Variedades",Polishop TV FHD
+http://axshield.xyz:80/054094807/220900798/14347333
+#EXTINF:-1 tvg-id="" tvg-name="Polishop TV HD" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NDdf/polishop.png" group-title="C • Variedades",Polishop TV HD
+http://axshield.xyz:80/054094807/220900798/14347357
+#EXTINF:-1 tvg-id="" tvg-name="Polishop TV SD" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NDdf/polishop.png" group-title="C • Variedades",Polishop TV SD
+http://axshield.xyz:80/054094807/220900798/14347377
+#EXTINF:-1 tvg-id="" tvg-name="Polly Persch" tvg-logo="https://meuplayer.tv.br/boxtv/onlyfans.jpg" group-title="C • 24 Horas • XXX OnlyFans +18",Polly Persch
+http://axshield.xyz:80/054094807/220900798/14345813
+#EXTINF:-1 tvg-id="" tvg-name="PPV • Baseball - Jogo 01" tvg-logo="https://od.lk/s/NzdfNTg2NDE5OTFf/baseball.png" group-title="C • Esportes Premium",PPV • Baseball - Jogo 01
+http://axshield.xyz:80/054094807/220900798/14346128
+#EXTINF:-1 tvg-id="" tvg-name="PPV • Baseball - Jogo 02" tvg-logo="https://od.lk/s/NzdfNTg2NDE5OTFf/baseball.png" group-title="C • Esportes Premium",PPV • Baseball - Jogo 02
+http://axshield.xyz:80/054094807/220900798/14346129
+#EXTINF:-1 tvg-id="" tvg-name="PPV • Baseball - Jogo 03" tvg-logo="https://od.lk/s/NzdfNTg2NDE5OTFf/baseball.png" group-title="C • Esportes Premium",PPV • Baseball - Jogo 03
+http://axshield.xyz:80/054094807/220900798/14346130
+#EXTINF:-1 tvg-id="" tvg-name="PPV • Baseball - Jogo 04" tvg-logo="https://od.lk/s/NzdfNTg2NDE5OTFf/baseball.png" group-title="C • Esportes Premium",PPV • Baseball - Jogo 04
+http://axshield.xyz:80/054094807/220900798/14346131
+#EXTINF:-1 tvg-id="" tvg-name="PPV • Basquete - Jogo 01" tvg-logo="https://od.lk/s/NzdfNTg2NDE5OTJf/BASQUETABAAL.png" group-title="C • Esportes Premium",PPV • Basquete - Jogo 01
+http://axshield.xyz:80/054094807/220900798/14346132
+#EXTINF:-1 tvg-id="" tvg-name="PPV • Basquete - Jogo 02" tvg-logo="https://od.lk/s/NzdfNTg2NDE5OTJf/BASQUETABAAL.png" group-title="C • Esportes Premium",PPV • Basquete - Jogo 02
+http://axshield.xyz:80/054094807/220900798/14346133
+#EXTINF:-1 tvg-id="" tvg-name="PPV • Basquete - Jogo 03" tvg-logo="https://od.lk/s/NzdfNTg2NDE5OTJf/BASQUETABAAL.png" group-title="C • Esportes Premium",PPV • Basquete - Jogo 03
+http://axshield.xyz:80/054094807/220900798/14346134
+#EXTINF:-1 tvg-id="" tvg-name="PPV • Basquete - Jogo 04" tvg-logo="https://od.lk/s/NzdfNTg2NDE5OTJf/BASQUETABAAL.png" group-title="C • Esportes Premium",PPV • Basquete - Jogo 04
+http://axshield.xyz:80/054094807/220900798/14346135
+#EXTINF:-1 tvg-id="" tvg-name="PPV • Basquete - Jogo 05" tvg-logo="https://od.lk/s/NzdfNTg2NDE5OTJf/BASQUETABAAL.png" group-title="C • Esportes Premium",PPV • Basquete - Jogo 05
+http://axshield.xyz:80/054094807/220900798/14346136
+#EXTINF:-1 tvg-id="" tvg-name="PPV • Basquete - Jogo 06" tvg-logo="https://od.lk/s/NzdfNTg2NDE5OTJf/BASQUETABAAL.png" group-title="C • Esportes Premium",PPV • Basquete - Jogo 06
+http://axshield.xyz:80/054094807/220900798/14346137
+#EXTINF:-1 tvg-id="" tvg-name="PPV • Basquete - Jogo 07" tvg-logo="https://od.lk/s/NzdfNTg2NDE5OTJf/BASQUETABAAL.png" group-title="C • Esportes Premium",PPV • Basquete - Jogo 07
+http://axshield.xyz:80/054094807/220900798/14346138
+#EXTINF:-1 tvg-id="" tvg-name="PPV • Basquete - Jogo 08" tvg-logo="https://od.lk/s/NzdfNTg2NDE5OTJf/BASQUETABAAL.png" group-title="C • Esportes Premium",PPV • Basquete - Jogo 08
+http://axshield.xyz:80/054094807/220900798/14346139
+#EXTINF:-1 tvg-id="" tvg-name="PPV • Basquete - Jogo 09" tvg-logo="https://od.lk/s/NzdfNTg2NDE5OTJf/BASQUETABAAL.png" group-title="C • Esportes Premium",PPV • Basquete - Jogo 09
+http://axshield.xyz:80/054094807/220900798/14346140
+#EXTINF:-1 tvg-id="" tvg-name="PPV • Basquete - Jogo 10" tvg-logo="https://od.lk/s/NzdfNTg2NDE5OTJf/BASQUETABAAL.png" group-title="C • Esportes Premium",PPV • Basquete - Jogo 10
+http://axshield.xyz:80/054094807/220900798/14346141
+#EXTINF:-1 tvg-id="" tvg-name="PPV • Boxe - Evento 01" tvg-logo="https://od.lk/s/NzdfNTg2NDE5OTNf/BOXE.png" group-title="C • Esportes Premium",PPV • Boxe - Evento 01
+http://axshield.xyz:80/054094807/220900798/14346142
+#EXTINF:-1 tvg-id="" tvg-name="PPV • Boxe - Evento 02" tvg-logo="https://od.lk/s/NzdfNTg2NDE5OTNf/BOXE.png" group-title="C • Esportes Premium",PPV • Boxe - Evento 02
+http://axshield.xyz:80/054094807/220900798/14346143
+#EXTINF:-1 tvg-id="" tvg-name="PPV • Boxe - Evento 03" tvg-logo="https://od.lk/s/NzdfNTg2NDE5OTNf/BOXE.png" group-title="C • Esportes Premium",PPV • Boxe - Evento 03
+http://axshield.xyz:80/054094807/220900798/14346144
+#EXTINF:-1 tvg-id="" tvg-name="PPV • Boxe - Evento 04" tvg-logo="https://od.lk/s/NzdfNTg2NDE5OTNf/BOXE.png" group-title="C • Esportes Premium",PPV • Boxe - Evento 04
+http://axshield.xyz:80/054094807/220900798/14346145
+#EXTINF:-1 tvg-id="" tvg-name="PPV • Futebol Americano - Jogo 01" tvg-logo="https://od.lk/s/NzdfNTg5NDI5MjBf/futebolamericano.png" group-title="C • Esportes Premium",PPV • Futebol Americano - Jogo 01
+http://axshield.xyz:80/054094807/220900798/14346146
+#EXTINF:-1 tvg-id="" tvg-name="PPV • Futebol Americano - Jogo 02" tvg-logo="https://od.lk/s/NzdfNTg5NDI5MjBf/futebolamericano.png" group-title="C • Esportes Premium",PPV • Futebol Americano - Jogo 02
+http://axshield.xyz:80/054094807/220900798/14346147
+#EXTINF:-1 tvg-id="" tvg-name="PPV • Futebol Americano - Jogo 03" tvg-logo="https://od.lk/s/NzdfNTg5NDI5MjBf/futebolamericano.png" group-title="C • Esportes Premium",PPV • Futebol Americano - Jogo 03
+http://axshield.xyz:80/054094807/220900798/14346148
+#EXTINF:-1 tvg-id="" tvg-name="PPV • Futebol Americano - Jogo 04" tvg-logo="https://od.lk/s/NzdfNTg5NDI5MjBf/futebolamericano.png" group-title="C • Esportes Premium",PPV • Futebol Americano - Jogo 04
+http://axshield.xyz:80/054094807/220900798/14346149
+#EXTINF:-1 tvg-id="" tvg-name="PPV • Golfe - Jogo 01" tvg-logo="https://od.lk/s/NzdfNTg2NDIwMDBf/GOLF.png" group-title="C • Esportes Premium",PPV • Golfe - Jogo 01
+http://axshield.xyz:80/054094807/220900798/14346150
+#EXTINF:-1 tvg-id="" tvg-name="PPV • Golfe - Jogo 02" tvg-logo="https://od.lk/s/NzdfNTg2NDIwMDBf/GOLF.png" group-title="C • Esportes Premium",PPV • Golfe - Jogo 02
+http://axshield.xyz:80/054094807/220900798/14346151
+#EXTINF:-1 tvg-id="" tvg-name="PPV • Golfe - Jogo 03" tvg-logo="https://od.lk/s/NzdfNTg2NDIwMDBf/GOLF.png" group-title="C • Esportes Premium",PPV • Golfe - Jogo 03
+http://axshield.xyz:80/054094807/220900798/14346152
+#EXTINF:-1 tvg-id="" tvg-name="PPV • Golfe - Jogo 04" tvg-logo="https://od.lk/s/NzdfNTg2NDIwMDBf/GOLF.png" group-title="C • Esportes Premium",PPV • Golfe - Jogo 04
+http://axshield.xyz:80/054094807/220900798/14346153
+#EXTINF:-1 tvg-id="" tvg-name="PPV • Hockey - Jogo 01" tvg-logo="https://od.lk/s/NzdfNTg2NDIwMDFf/HOKEY.png" group-title="C • Esportes Premium",PPV • Hockey - Jogo 01
+http://axshield.xyz:80/054094807/220900798/14346154
+#EXTINF:-1 tvg-id="" tvg-name="PPV • Hockey - Jogo 02" tvg-logo="https://od.lk/s/NzdfNTg2NDIwMDFf/HOKEY.png" group-title="C • Esportes Premium",PPV • Hockey - Jogo 02
+http://axshield.xyz:80/054094807/220900798/14346155
+#EXTINF:-1 tvg-id="" tvg-name="PPV • Hockey - Jogo 03" tvg-logo="https://od.lk/s/NzdfNTg2NDIwMDFf/HOKEY.png" group-title="C • Esportes Premium",PPV • Hockey - Jogo 03
+http://axshield.xyz:80/054094807/220900798/14346156
+#EXTINF:-1 tvg-id="" tvg-name="PPV • Hockey - Jogo 04" tvg-logo="https://od.lk/s/NzdfNTg2NDIwMDFf/HOKEY.png" group-title="C • Esportes Premium",PPV • Hockey - Jogo 04
+http://axshield.xyz:80/054094807/220900798/14346157
+#EXTINF:-1 tvg-id="" tvg-name="PPV • Rugby - Jogo 01" tvg-logo="https://od.lk/s/NzdfNTg2NDIwMDVf/RUGBY.png" group-title="C • Esportes Premium",PPV • Rugby - Jogo 01
+http://axshield.xyz:80/054094807/220900798/14346158
+#EXTINF:-1 tvg-id="" tvg-name="PPV • Rugby - Jogo 02" tvg-logo="https://od.lk/s/NzdfNTg2NDIwMDVf/RUGBY.png" group-title="C • Esportes Premium",PPV • Rugby - Jogo 02
+http://axshield.xyz:80/054094807/220900798/14346159
+#EXTINF:-1 tvg-id="" tvg-name="PPV • Rugby - Jogo 03" tvg-logo="https://od.lk/s/NzdfNTg2NDIwMDVf/RUGBY.png" group-title="C • Esportes Premium",PPV • Rugby - Jogo 03
+http://axshield.xyz:80/054094807/220900798/14346160
+#EXTINF:-1 tvg-id="" tvg-name="PPV • Rugby - Jogo 04" tvg-logo="https://od.lk/s/NzdfNTg2NDIwMDVf/RUGBY.png" group-title="C • Esportes Premium",PPV • Rugby - Jogo 04
+http://axshield.xyz:80/054094807/220900798/14346161
+#EXTINF:-1 tvg-id="" tvg-name="PPV • Tenis - Jogo 01" tvg-logo="https://od.lk/s/NzdfNTg2NDIwMDZf/TENIS.png" group-title="C • Esportes Premium",PPV • Tenis - Jogo 01
+http://axshield.xyz:80/054094807/220900798/14346162
+#EXTINF:-1 tvg-id="" tvg-name="PPV • Tenis - Jogo 02" tvg-logo="https://od.lk/s/NzdfNTg2NDIwMDZf/TENIS.png" group-title="C • Esportes Premium",PPV • Tenis - Jogo 02
+http://axshield.xyz:80/054094807/220900798/14346163
+#EXTINF:-1 tvg-id="" tvg-name="PPV • Tenis - Jogo 03" tvg-logo="https://od.lk/s/NzdfNTg2NDIwMDZf/TENIS.png" group-title="C • Esportes Premium",PPV • Tenis - Jogo 03
+http://axshield.xyz:80/054094807/220900798/14346164
+#EXTINF:-1 tvg-id="" tvg-name="PPV • Tenis - Jogo 04" tvg-logo="https://od.lk/s/NzdfNTg2NDIwMDZf/TENIS.png" group-title="C • Esportes Premium",PPV • Tenis - Jogo 04
+http://axshield.xyz:80/054094807/220900798/14346165
+#EXTINF:-1 tvg-id="" tvg-name="PPV • Volei - Jogo 01" tvg-logo="https://od.lk/s/NzdfNTg2NDIwMTBf/VOLEI.png" group-title="C • Esportes Premium",PPV • Volei - Jogo 01
+http://axshield.xyz:80/054094807/220900798/14346166
+#EXTINF:-1 tvg-id="" tvg-name="PPV • Volei - Jogo 02" tvg-logo="https://od.lk/s/NzdfNTg2NDIwMTBf/VOLEI.png" group-title="C • Esportes Premium",PPV • Volei - Jogo 02
+http://axshield.xyz:80/054094807/220900798/14346167
+#EXTINF:-1 tvg-id="" tvg-name="PPV • Volei - Jogo 03" tvg-logo="https://od.lk/s/NzdfNTg2NDIwMTBf/VOLEI.png" group-title="C • Esportes Premium",PPV • Volei - Jogo 03
+http://axshield.xyz:80/054094807/220900798/14346168
+#EXTINF:-1 tvg-id="" tvg-name="PPV • Volei - Jogo 04" tvg-logo="https://od.lk/s/NzdfNTg2NDIwMTBf/VOLEI.png" group-title="C • Esportes Premium",PPV • Volei - Jogo 04
+http://axshield.xyz:80/054094807/220900798/14346169
+#EXTINF:-1 tvg-id="premiere2.br" tvg-name="Premiere 2 FHD" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NTZf/premiere1.png" group-title="C • Premiere Clubes",Premiere 2 FHD
+http://axshield.xyz:80/054094807/220900798/14347127
+#EXTINF:-1 tvg-id="premiere2.br" tvg-name="Premiere 2 HD" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NTZf/premiere1.png" group-title="C • Premiere Clubes",Premiere 2 HD
+http://axshield.xyz:80/054094807/220900798/14347135
+#EXTINF:-1 tvg-id="premiere2.br" tvg-name="Premiere 2 SD" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NTZf/premiere1.png" group-title="C • Premiere Clubes",Premiere 2 SD
+http://axshield.xyz:80/054094807/220900798/14347138
+#EXTINF:-1 tvg-id="premiere3.br" tvg-name="Premiere 3 FHD" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NTZf/premiere1.png" group-title="C • Premiere Clubes",Premiere 3 FHD
+http://axshield.xyz:80/054094807/220900798/14347128
+#EXTINF:-1 tvg-id="premiere3.br" tvg-name="Premiere 3 HD" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NTZf/premiere1.png" group-title="C • Premiere Clubes",Premiere 3 HD
+http://axshield.xyz:80/054094807/220900798/14347136
+#EXTINF:-1 tvg-id="premiere3.br" tvg-name="Premiere 3 SD" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NTZf/premiere1.png" group-title="C • Premiere Clubes",Premiere 3 SD
+http://axshield.xyz:80/054094807/220900798/14347139
+#EXTINF:-1 tvg-id="premiere4.br" tvg-name="Premiere 4 HD" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NTZf/premiere1.png" group-title="C • Premiere Clubes",Premiere 4 HD
+http://axshield.xyz:80/054094807/220900798/14347130
+#EXTINF:-1 tvg-id="premiere4.br" tvg-name="Premiere 4 SD" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NTZf/premiere1.png" group-title="C • Premiere Clubes",Premiere 4 SD
+http://axshield.xyz:80/054094807/220900798/14347140
+#EXTINF:-1 tvg-id="premiere5.br" tvg-name="Premiere 5 HD" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NTZf/premiere1.png" group-title="C • Premiere Clubes",Premiere 5 HD
+http://axshield.xyz:80/054094807/220900798/14347131
+#EXTINF:-1 tvg-id="premiere5.br" tvg-name="Premiere 5 SD" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NTZf/premiere1.png" group-title="C • Premiere Clubes",Premiere 5 SD
+http://axshield.xyz:80/054094807/220900798/14347141
+#EXTINF:-1 tvg-id="premiere6.br" tvg-name="Premiere 6 HD" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NTZf/premiere1.png" group-title="C • Premiere Clubes",Premiere 6 HD
+http://axshield.xyz:80/054094807/220900798/14347132
+#EXTINF:-1 tvg-id="premiere6.br" tvg-name="Premiere 6 SD" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NTZf/premiere1.png" group-title="C • Premiere Clubes",Premiere 6 SD
+http://axshield.xyz:80/054094807/220900798/14347142
+#EXTINF:-1 tvg-id="premiere7.br" tvg-name="Premiere 7 HD" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NTZf/premiere1.png" group-title="C • Premiere Clubes",Premiere 7 HD
+http://axshield.xyz:80/054094807/220900798/14347133
+#EXTINF:-1 tvg-id="premiere7.br" tvg-name="Premiere 7 SD" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NTZf/premiere1.png" group-title="C • Premiere Clubes",Premiere 7 SD
+http://axshield.xyz:80/054094807/220900798/14347143
+#EXTINF:-1 tvg-id="premiere8.br" tvg-name="Premiere 8 HD" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NTZf/premiere1.png" group-title="C • Premiere Clubes",Premiere 8 HD
+http://axshield.xyz:80/054094807/220900798/14347134
+#EXTINF:-1 tvg-id="premiere8.br" tvg-name="Premiere 8 SD" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NTZf/premiere1.png" group-title="C • Premiere Clubes",Premiere 8 SD
+http://axshield.xyz:80/054094807/220900798/14347144
+#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="Premiere Clubes FHD" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NThf/premiereclubes.png" group-title="C • Premiere Clubes",Premiere Clubes FHD
+http://axshield.xyz:80/054094807/220900798/14347129
+#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="Premiere Clubes HD" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NThf/premiereclubes.png" group-title="C • Premiere Clubes",Premiere Clubes HD
+http://axshield.xyz:80/054094807/220900798/14347137
+#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="Premiere Clubes SD" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NThf/premiereclubes.png" group-title="C • Premiere Clubes",Premiere Clubes SD
+http://axshield.xyz:80/054094807/220900798/14347145
+#EXTINF:-1 tvg-id="primeboxbrazil.br" tvg-name="Prime Box Brazil FHD" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjBf/primeboxbrazil.png" group-title="C • Variedades",Prime Box Brazil FHD
+http://axshield.xyz:80/054094807/220900798/14347334
+#EXTINF:-1 tvg-id="primeboxbrazil.br" tvg-name="Prime Box Brazil HD" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjBf/primeboxbrazil.png" group-title="C • Variedades",Prime Box Brazil HD
+http://axshield.xyz:80/054094807/220900798/14347358
+#EXTINF:-1 tvg-id="primeboxbrazil.br" tvg-name="Prime Box Brazil SD" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NjBf/primeboxbrazil.png" group-title="C • Variedades",Prime Box Brazil SD
+http://axshield.xyz:80/054094807/220900798/14347378
+#EXTINF:-1 tvg-id="" tvg-name="RBI TV HD" tvg-logo="https://od.lk/s/NzdfNTg5NDMxNDRf/rbitv.png" group-title="C • Abertos",RBI TV HD
+http://axshield.xyz:80/054094807/220900798/14345844
+#EXTINF:-1 tvg-id="" tvg-name="RBI TV SD" tvg-logo="https://od.lk/s/NzdfNTg5NDMxNDRf/rbitv.png" group-title="C • Abertos",RBI TV SD
+http://axshield.xyz:80/054094807/220900798/14345872
+#EXTINF:-1 tvg-id="recordnews.br" tvg-name="Record News FHD" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0MjNf/pluto-recordnews.png" group-title="C • Notícias",Record News FHD
+http://axshield.xyz:80/054094807/220900798/14346809
+#EXTINF:-1 tvg-id="recordnews.br" tvg-name="Record News HD" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0MjNf/pluto-recordnews.png" group-title="C • Notícias",Record News HD
+http://axshield.xyz:80/054094807/220900798/14346827
+#EXTINF:-1 tvg-id="recordnews.br" tvg-name="Record News SD" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0MjNf/pluto-recordnews.png" group-title="C • Notícias",Record News SD
+http://axshield.xyz:80/054094807/220900798/14346837
+#EXTINF:-1 tvg-id="" tvg-name="Record TV Atalaia HD" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NzNf/recordtv.png" group-title="C • Record TV",Record TV Atalaia HD
+http://axshield.xyz:80/054094807/220900798/14347164
+#EXTINF:-1 tvg-id="" tvg-name="Record TV Atalaia SD" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NzNf/recordtv.png" group-title="C • Record TV",Record TV Atalaia SD
+http://axshield.xyz:80/054094807/220900798/14347191
+#EXTINF:-1 tvg-id="" tvg-name="Record TV Bauru HD" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NzNf/recordtv.png" group-title="C • Record TV",Record TV Bauru HD
+http://axshield.xyz:80/054094807/220900798/14347147
+#EXTINF:-1 tvg-id="" tvg-name="Record TV Bauru SD" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NzNf/recordtv.png" group-title="C • Record TV",Record TV Bauru SD
+http://axshield.xyz:80/054094807/220900798/14347171
+#EXTINF:-1 tvg-id="recordtvbelém.br" tvg-name="Record TV Belem HD" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NzNf/recordtv.png" group-title="C • Record TV",Record TV Belem HD
+http://axshield.xyz:80/054094807/220900798/14347148
+#EXTINF:-1 tvg-id="recordtvbelém.br" tvg-name="Record TV Belem SD" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NzNf/recordtv.png" group-title="C • Record TV",Record TV Belem SD
+http://axshield.xyz:80/054094807/220900798/14347172
+#EXTINF:-1 tvg-id="recordtvbrasília.br" tvg-name="Record TV Brasília HD" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NzNf/recordtv.png" group-title="C • Record TV",Record TV Brasília HD
+http://axshield.xyz:80/054094807/220900798/14347149
+#EXTINF:-1 tvg-id="recordtvbrasília.br" tvg-name="Record TV Brasília SD" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NzNf/recordtv.png" group-title="C • Record TV",Record TV Brasília SD
+http://axshield.xyz:80/054094807/220900798/14347173
+#EXTINF:-1 tvg-id="" tvg-name="Record TV Cabrália HD" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NzNf/recordtv.png" group-title="C • Record TV",Record TV Cabrália HD
+http://axshield.xyz:80/054094807/220900798/14347150
+#EXTINF:-1 tvg-id="" tvg-name="Record TV Cabrália SD" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NzNf/recordtv.png" group-title="C • Record TV",Record TV Cabrália SD
+http://axshield.xyz:80/054094807/220900798/14347174
+#EXTINF:-1 tvg-id="" tvg-name="Record TV Campo dos Goytacazes HD" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NzNf/recordtv.png" group-title="C • Record TV",Record TV Campo dos Goytacazes HD
+http://axshield.xyz:80/054094807/220900798/14347151
+#EXTINF:-1 tvg-id="" tvg-name="Record TV Campo dos Goytacazes SD" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NzNf/recordtv.png" group-title="C • Record TV",Record TV Campo dos Goytacazes SD
+http://axshield.xyz:80/054094807/220900798/14347175
+#EXTINF:-1 tvg-id="" tvg-name="Record TV Cidade São Luis HD" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NzNf/recordtv.png" group-title="C • Record TV",Record TV Cidade São Luis HD
+http://axshield.xyz:80/054094807/220900798/14347165
+#EXTINF:-1 tvg-id="" tvg-name="Record TV Cidade São Luis SD" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NzNf/recordtv.png" group-title="C • Record TV",Record TV Cidade São Luis SD
+http://axshield.xyz:80/054094807/220900798/14347192
+#EXTINF:-1 tvg-id="" tvg-name="Record TV Correio HD" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NzNf/recordtv.png" group-title="C • Record TV",Record TV Correio HD
+http://axshield.xyz:80/054094807/220900798/14347146
+#EXTINF:-1 tvg-id="" tvg-name="Record TV Correio SD" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NzNf/recordtv.png" group-title="C • Record TV",Record TV Correio SD
+http://axshield.xyz:80/054094807/220900798/14347176
+#EXTINF:-1 tvg-id="recordtvgoiás.br" tvg-name="Record TV Goias HD" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NzNf/recordtv.png" group-title="C • Record TV",Record TV Goias HD
+http://axshield.xyz:80/054094807/220900798/14347152
+#EXTINF:-1 tvg-id="recordtvgoiás.br" tvg-name="Record TV Goias SD" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NzNf/recordtv.png" group-title="C • Record TV",Record TV Goias SD
+http://axshield.xyz:80/054094807/220900798/14347177
+#EXTINF:-1 tvg-id="recordtvitapoan.br" tvg-name="Record TV Itapoan HD" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NzNf/recordtv.png" group-title="C • Record TV",Record TV Itapoan HD
+http://axshield.xyz:80/054094807/220900798/14347153
+#EXTINF:-1 tvg-id="recordtvitapoan.br" tvg-name="Record TV Itapoan SD" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NzNf/recordtv.png" group-title="C • Record TV",Record TV Itapoan SD
+http://axshield.xyz:80/054094807/220900798/14347178
+#EXTINF:-1 tvg-id="recordtvminas.br" tvg-name="Record TV Manaus HD" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NzNf/recordtv.png" group-title="C • Record TV",Record TV Manaus HD
+http://axshield.xyz:80/054094807/220900798/14347154
+#EXTINF:-1 tvg-id="recordtvminas.br" tvg-name="Record TV Manaus SD" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NzNf/recordtv.png" group-title="C • Record TV",Record TV Manaus SD
+http://axshield.xyz:80/054094807/220900798/14347179
+#EXTINF:-1 tvg-id="recordtvminas.br" tvg-name="Record TV Minas HD" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NzNf/recordtv.png" group-title="C • Record TV",Record TV Minas HD
+http://axshield.xyz:80/054094807/220900798/14347155
+#EXTINF:-1 tvg-id="recordtvminas.br" tvg-name="Record TV Minas SD" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NzNf/recordtv.png" group-title="C • Record TV",Record TV Minas SD
+http://axshield.xyz:80/054094807/220900798/14347180
+#EXTINF:-1 tvg-id="" tvg-name="Record TV NDTV HD" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NzNf/recordtv.png" group-title="C • Record TV",Record TV NDTV HD
+http://axshield.xyz:80/054094807/220900798/14347156
+#EXTINF:-1 tvg-id="" tvg-name="Record TV NDTV SD" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NzNf/recordtv.png" group-title="C • Record TV",Record TV NDTV SD
+http://axshield.xyz:80/054094807/220900798/14347181
+#EXTINF:-1 tvg-id="" tvg-name="Record TV Pajuçara HD" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NzNf/recordtv.png" group-title="C • Record TV",Record TV Pajuçara HD
+http://axshield.xyz:80/054094807/220900798/14347166
+#EXTINF:-1 tvg-id="" tvg-name="Record TV Pajuçara SD" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NzNf/recordtv.png" group-title="C • Record TV",Record TV Pajuçara SD
+http://axshield.xyz:80/054094807/220900798/14347193
+#EXTINF:-1 tvg-id="" tvg-name="Record TV Ribeirão Preto HD" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NzNf/recordtv.png" group-title="C • Record TV",Record TV Ribeirão Preto HD
+http://axshield.xyz:80/054094807/220900798/14347157
+#EXTINF:-1 tvg-id="" tvg-name="Record TV Ribeirão Preto SD" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NzNf/recordtv.png" group-title="C • Record TV",Record TV Ribeirão Preto SD
+http://axshield.xyz:80/054094807/220900798/14347184
+#EXTINF:-1 tvg-id="" tvg-name="Record TV RICTV HD" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NzNf/recordtv.png" group-title="C • Record TV",Record TV RICTV HD
+http://axshield.xyz:80/054094807/220900798/14347158
+#EXTINF:-1 tvg-id="" tvg-name="Record TV RICTV SD" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NzNf/recordtv.png" group-title="C • Record TV",Record TV RICTV SD
+http://axshield.xyz:80/054094807/220900798/14347182
+#EXTINF:-1 tvg-id="" tvg-name="Record TV Rio de Janeiro FHD" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NzNf/recordtv.png" group-title="C • Record TV",Record TV Rio de Janeiro FHD
+http://axshield.xyz:80/054094807/220900798/14347168
+#EXTINF:-1 tvg-id="" tvg-name="Record TV Rio de Janeiro HD" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NzNf/recordtv.png" group-title="C • Record TV",Record TV Rio de Janeiro HD
+http://axshield.xyz:80/054094807/220900798/14347169
+#EXTINF:-1 tvg-id="" tvg-name="Record TV Rio de Janeiro SD" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NzNf/recordtv.png" group-title="C • Record TV",Record TV Rio de Janeiro SD
+http://axshield.xyz:80/054094807/220900798/14347186
+#EXTINF:-1 tvg-id="" tvg-name="Record TV Rio Preto HD" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NzNf/recordtv.png" group-title="C • Record TV",Record TV Rio Preto HD
+http://axshield.xyz:80/054094807/220900798/14347159
+#EXTINF:-1 tvg-id="" tvg-name="Record TV Rio Preto SD" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NzNf/recordtv.png" group-title="C • Record TV",Record TV Rio Preto SD
+http://axshield.xyz:80/054094807/220900798/14347185
+#EXTINF:-1 tvg-id="recordtvrs.br" tvg-name="Record TV RS HD" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NzNf/recordtv.png" group-title="C • Record TV",Record TV RS HD
+http://axshield.xyz:80/054094807/220900798/14347160
+#EXTINF:-1 tvg-id="recordtvrs.br" tvg-name="Record TV RS SD" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NzNf/recordtv.png" group-title="C • Record TV",Record TV RS SD
+http://axshield.xyz:80/054094807/220900798/14347183
+#EXTINF:-1 tvg-id="" tvg-name="Record TV Santos e Vale HD" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NzNf/recordtv.png" group-title="C • Record TV",Record TV Santos e Vale HD
+http://axshield.xyz:80/054094807/220900798/14347161
+#EXTINF:-1 tvg-id="" tvg-name="Record TV Santos e Vale SD" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NzNf/recordtv.png" group-title="C • Record TV",Record TV Santos e Vale SD
+http://axshield.xyz:80/054094807/220900798/14347188
+#EXTINF:-1 tvg-id="recordtvrs.br" tvg-name="Record TV SP FHD" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NzNf/recordtv.png" group-title="C • Record TV",Record TV SP FHD
+http://axshield.xyz:80/054094807/220900798/14347167
+#EXTINF:-1 tvg-id="recordtvrs.br" tvg-name="Record TV SP HD" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NzNf/recordtv.png" group-title="C • Record TV",Record TV SP HD
+http://axshield.xyz:80/054094807/220900798/14347170
+#EXTINF:-1 tvg-id="recordtvrs.br" tvg-name="Record TV SP SD" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NzNf/recordtv.png" group-title="C • Record TV",Record TV SP SD
+http://axshield.xyz:80/054094807/220900798/14347187
+#EXTINF:-1 tvg-id="" tvg-name="Record TV Thathi Campinas HD" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NzNf/recordtv.png" group-title="C • Record TV",Record TV Thathi Campinas HD
+http://axshield.xyz:80/054094807/220900798/14347162
+#EXTINF:-1 tvg-id="" tvg-name="Record TV Thathi Campinas SD" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NzNf/recordtv.png" group-title="C • Record TV",Record TV Thathi Campinas SD
+http://axshield.xyz:80/054094807/220900798/14347189
+#EXTINF:-1 tvg-id="" tvg-name="Record TV Tropical HD" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NzNf/recordtv.png" group-title="C • Record TV",Record TV Tropical HD
+http://axshield.xyz:80/054094807/220900798/14347163
+#EXTINF:-1 tvg-id="" tvg-name="Record TV Tropical SD" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0NzNf/recordtv.png" group-title="C • Record TV",Record TV Tropical SD
+http://axshield.xyz:80/054094807/220900798/14347190
+#EXTINF:-1 tvg-id="" tvg-name="RED" tvg-logo="https://meuplayer.tv.br/boxtv/onlyfans.jpg" group-title="C • 24 Horas • XXX OnlyFans +18",RED
+http://axshield.xyz:80/054094807/220900798/14345814
+#EXTINF:-1 tvg-id="" tvg-name="Rede 21 HD" tvg-logo="https://od.lk/s/NzdfNTg5NDMxNDNf/rede21.png" group-title="C • Abertos",Rede 21 HD
+http://axshield.xyz:80/054094807/220900798/14345845
+#EXTINF:-1 tvg-id="" tvg-name="Rede 21 SD" tvg-logo="https://od.lk/s/NzdfNTg5NDMxNDNf/rede21.png" group-title="C • Abertos",Rede 21 SD
+http://axshield.xyz:80/054094807/220900798/14345875
+#EXTINF:-1 tvg-id="redebrasil.br" tvg-name="Rede Brasil TV HD" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0Nzdf/redebrasil1.png" group-title="C • Abertos",Rede Brasil TV HD
+http://axshield.xyz:80/054094807/220900798/14347305
+#EXTINF:-1 tvg-id="redebrasil.br" tvg-name="Rede Brasil TV SD" tvg-logo="https://od.lk/s/NzdfNTg1NjQ0Nzdf/redebrasil1.png" group-title="C • Abertos",Rede Brasil TV SD
+http://axshield.xyz:80/054094807/220900798/14347312
+#EXTINF:-1 tvg-id="" tvg-name="Rede Globo Amazônica Ariquemes FHD" tvg-logo="https://od.lk/s/NzdfNTg1NjQxMjlf/globo.png" group-title="C • Globo Regionais",Rede Globo Amazônica Ariquemes FHD
+http://axshield.xyz:80/054094807/220900798/14346352
+#EXTINF:-1 tvg-id="" tvg-name="Rede Globo Amazônica Ariquemes HD" tvg-logo="https://od.lk/s/NzdfNTg1NjQxMjlf/globo.png" group-title="C • Globo Regionais",Rede Globo Amazônica Ariquemes HD
+http://axshield.xyz:80/054094807/220900798/14346353
+#EXTINF:-1 tvg-id="" tvg-name="Rede Globo Amazônica Ariquemes SD" tvg-logo="https://od.lk/s/NzdfNTg1NjQxMjlf/globo.png" group-title="C • Globo Regionais",Rede Globo Amazônica Ariquemes SD
+http://axshield.xyz:80/054094807/220900798/14346354
+#EXTINF:-1 tvg-id="" tvg-name="Rede Globo Amazônica Boa Vista FHD" tvg-logo="https://od.lk/s/NzdfNTg1NjQxMjlf/globo.png" group-title="C • Globo Capitais",Rede Globo Amazônica Boa Vista FHD
+http://axshield.xyz:80/054094807/220900798/14346271
+#EXTINF:-1 tvg-id="" tvg-name="Rede Globo Amazônica Boa Vista HD" tvg-logo="https://od.lk/s/NzdfNTg1NjQxMjlf/globo.png" group-title="C • Globo Capitais",Rede Globo Amazônica Boa Vista HD
+http://axshield.xyz:80/054094807/220900798/14346272
+#EXTINF:-1 tvg-id="" tvg-name="Rede Globo Amazônica Boa Vista SD" tvg-logo="https://od.lk/s/NzdfNTg1NjQxMjlf/globo.png" group-title="C • Globo Capitais",Rede Globo Amazônica Boa Vista SD
+http://axshield.xyz:80/054094807/220900798/14346273
+#EXTINF:-1 tvg-id="" tvg-name="Rede Globo Amazônica Cacoal FHD" tvg-logo="https://od.lk/s/NzdfNTg1NjQxMjlf/globo.png" group-title="C • Globo Regionais",Rede Globo Amazônica Cacoal FHD
+http://axshield.xyz:80/054094807/220900798/14346355
+#EXTINF:-1 tvg-id="" tvg-name="Rede Globo Amazônica Cacoal HD" tvg-logo="https://od.lk/s/NzdfNTg1NjQxMjlf/globo.png" group-title="C • Globo Regionais",Rede Globo Amazônica Cacoal HD
+http://axshield.xyz:80/054094807/220900798/14346356
+#EXTINF:-1 tvg-id="" tvg-name="Rede Globo Amazônica Cacoal SD" tvg-logo="https://od.lk/s/NzdfNTg1NjQxMjlf/globo.png" group-title="C • Globo Regionais",Rede Globo Amazônica Cacoal SD
+http://axshield.xyz:80/054094807/220900798/14346357
+#EXTINF:-1 tvg-id="" tvg-name="Rede Globo Amazônica Cruzeiro do Sul FHD" tvg-logo="https://od.lk/s/NzdfNTg1NjQxMjlf/globo.png" group-title="C • Globo Regionais",Rede Globo Amazônica Cruzeiro do Sul FHD
+http://axshield.xyz:80/054094807/220900798/14346358
+#EXTINF:-1 tvg-id="" tvg-name="Rede Globo Amazônica Cruzeiro do Sul HD" tvg-logo="https://od.lk/s/NzdfNTg1NjQxMjlf/globo.png" group-title="C • Globo Regionais",Rede Globo Amazônica Cruzeiro do Sul HD
+http://axshield.xyz:80/054094807/220900798/14346359
+#EXTINF:-1 tvg-id="" tvg-name="Rede Globo Amazônica Cruzeiro do Sul SD" tvg-logo="https://od.lk/s/NzdfNTg1NjQxMjlf/globo.png" group-title="C • Globo Regionais",Rede Globo Amazônica Cruzeiro do Sul SD
+http://axshield.xyz:80/054094807/220900798/14346360
+#EXTINF:-1 tvg-id="" tvg-name="Rede Globo Amazônica Guajará Mirim FHD" tvg-logo="https://od.lk/s/NzdfNTg1NjQxMjlf/globo.png" group-title="C • Globo Regionais",Rede Globo Amazônica Guajará Mirim FHD
+http://axshield.xyz:80/054094807/220900798/14346361
+#EXTINF:-1 tvg-id="" tvg-name="Rede Globo Amazônica Guajará Mirim HD" tvg-logo="https://od.lk/s/NzdfNTg1NjQxMjlf/globo.png" group-title="C • Globo Regionais",Rede Globo Amazônica Guajará Mirim HD
+http://axshield.xyz:80/054094807/220900798/14346362
+#EXTINF:-1 tvg-id="" tvg-name="Rede Globo Amazônica Guajará Mirim SD" tvg-logo="https://od.lk/s/NzdfNTg1NjQxMjlf/globo.png" group-title="C • Globo Regionais",Rede Globo Amazônica Guajará Mirim SD
+http://axshield.xyz:80/054094807/220900798/14346363
+#EXTINF:-1 tvg-id="" tvg-name="Rede Globo Amazônica Itacoatiara FHD" tvg-logo="https://od.lk/s/NzdfNTg1NjQxMjlf/globo.png" group-title="C • Globo Regionais",Rede Globo Amazônica Itacoatiara FHD
+http://axshield.xyz:80/054094807/220900798/14346364
+#EXTINF:-1 tvg-id="" tvg-name="Rede Globo Amazônica Itacoatiara HD" tvg-logo="https://od.lk/s/NzdfNTg1NjQxMjlf/globo.png" group-title="C • Globo Regionais",Rede Globo Amazônica Itacoatiara HD
+http://axshield.xyz:80/054094807/220900798/14346365
+#EXTINF:-1 tvg-id="" tvg-name="Rede Globo Amazônica Itacoatiara SD" tvg-logo="https://od.lk/s/NzdfNTg1NjQxMjlf/globo.png" group-title="C • Globo Regionais",Rede Globo Amazônica Itacoatiara SD
+http://axshield.xyz:80/054094807/220900798/14346366
+#EXTINF:-1 tvg-id="" tvg-name="Rede Globo Amazônica Ji Paraná FHD" tvg-logo="https://od.lk/s/NzdfNTg1NjQxMjlf/globo.png" group-title="C • Globo Regionais",Rede Globo Amazônica Ji Paraná FHD
+http://axshield.xyz:80/054094807/220900798/14346367
+#EXTINF:-1 tvg-id="" tvg-name="Rede Globo Amazônica Ji Paraná HD" tvg-logo="https://od.lk/s/NzdfNTg1NjQxMjlf/globo.png" group-title="C • Globo Regionais",Rede Globo Amazônica Ji Paraná HD
+http://axshield.xyz:80/054094807/220900798/14346368
+#EXTINF:-1 tvg-id="" tvg-name="Rede Globo Amazônica Ji Paraná SD" tvg-logo="https://od.lk/s/NzdfNTg1NjQxMjlf/globo.png" group-title="C • Globo Regionais",Rede Globo Amazônica Ji Paraná SD
+http://axshield.xyz:80/054094807/220900798/14346369
+#EXTINF:-1 tvg-id="" tvg-name="Rede Globo Amazônica Macapá FHD" tvg-logo="https://od.lk/s/NzdfNTg1NjQxMjlf/globo.png" group-title="C • Globo Capitais",Rede Globo Amazônica Macapá FHD
+http://axshield.xyz:80/054094807/220900798/1434627

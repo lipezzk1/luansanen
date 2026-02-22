@@ -1,0 +1,122 @@
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
+#EXTINF:-1 tvg-id="" tvg-name="ESPN FHD" tvg-logo="https://a.espncdn.com/watchespn/images/web/network_logos/channel_logo_brazil_2x.png" group-title="⚽CANAIS JOGOS ROTA BR",ESPN FHD
+http://get26.maniacodeteste34.click:80/hicaro/hicaro/31493.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere Clubes FHD" tvg-logo="http://97j91.xyz/images/logos/4f02df7b2aedca9a4a55c65178d3b013.png" group-title="⚽CANAIS JOGOS ROTA BR",Premiere Clubes FHD
+http://get26.maniacodeteste34.click:80/hicaro/hicaro/31499.ts
+#EXTINF:-1 tvg-id="108" tvg-name="Premiere 2 FHD" tvg-logo="http://97j91.xyz/images/logos/4f02df7b2aedca9a4a55c65178d3b013.png" group-title="⚽CANAIS JOGOS ROTA BR",Premiere 2 FHD
+http://get26.maniacodeteste34.click:80/hicaro/hicaro/31508.ts
+#EXTINF:-1 tvg-id="109" tvg-name="Premiere 3 FHD" tvg-logo="http://97j91.xyz/images/logos/3fb9eb7378ae3c9eaccfb092e921c419.png" group-title="⚽CANAIS JOGOS ROTA BR",Premiere 3 FHD
+http://get26.maniacodeteste34.click:80/hicaro/hicaro/31516.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max 01" tvg-logo="http://97j91.xyz/images/max.png" group-title="⚽CANAIS JOGOS ROTA BR",HBO Max 01
+http://get26.maniacodeteste34.click:80/hicaro/hicaro/31517.ts
+#EXTINF:-1 tvg-id="" tvg-name="SporTV FHD" tvg-logo="http://97j91.xyz/images/logos/b18caf8c54b3426bf127aaadd211c620.png" group-title="⚽CANAIS JOGOS ROTA BR",SporTV FHD
+http://get26.maniacodeteste34.click:80/hicaro/hicaro/31522.ts
+#EXTINF:-1 tvg-id="" tvg-name="Paramount Plus - 01" tvg-logo="http://97j91.xyz/images/Paramount.png" group-title="⚽CANAIS JOGOS ROTA BR",Paramount Plus - 01
+http://get26.maniacodeteste34.click:80/hicaro/hicaro/31523.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nosso Futebol - 1 HD" tvg-logo="http://97j91.xyz/images/nossofutebol2.png" group-title="⚽CANAIS JOGOS ROTA BR",Nosso Futebol - 1 HD
+http://get26.maniacodeteste34.click:80/hicaro/hicaro/31524.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN FHD" tvg-logo="https://i.imgur.com/2xuDZ8M.png" group-title="⚽CANAIS JOGOS ROTA BR",DAZN FHD
+http://get26.maniacodeteste34.click:80/hicaro/hicaro/31526.ts
+#EXTINF:-1 tvg-id="397" tvg-name="SBT SP FHD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="CANAIS SBT",SBT SP FHD
+http://get26.maniacodeteste34.click:80/hicaro/hicaro/34586.ts
+#EXTINF:-1 tvg-id="397" tvg-name="SBT BAHIA FHD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="CANAIS SBT",SBT BAHIA FHD
+http://get26.maniacodeteste34.click:80/hicaro/hicaro/34587.ts
+#EXTINF:-1 tvg-id="397" tvg-name="SBT BA HD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="CANAIS SBT",SBT BA HD
+http://get26.maniacodeteste34.click:80/hicaro/hicaro/34588.ts
+#EXTINF:-1 tvg-id="" tvg-name="SBT ES HD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="CANAIS SBT",SBT ES HD
+http://get26.maniacodeteste34.click:80/hicaro/hicaro/34589.ts
+#EXTINF:-1 tvg-id="sbt.cuiaba.br" tvg-name="SBT MT HD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="CANAIS SBT",SBT MT HD
+http://get26.maniacodeteste34.click:80/hicaro/hicaro/34599.ts
+#EXTINF:-1 tvg-id="sbt.para.br" tvg-name="SBT PARÁ HD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="CANAIS SBT",SBT PARÁ HD
+http://get26.maniacodeteste34.click:80/hicaro/hicaro/34601.ts
+#EXTINF:-1 tvg-id="rede.massa.br" tvg-name="SBT PR HD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="CANAIS SBT",SBT PR HD
+http://get26.maniacodeteste34.click:80/hicaro/hicaro/34602.ts
+#EXTINF:-1 tvg-id="tv.jornal.br" tvg-name="SBT RECIFE TV JRONAL HD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="CANAIS SBT",SBT RECIFE TV JRONAL HD
+http://get26.maniacodeteste34.click:80/hicaro/hicaro/34603.ts
+#EXTINF:-1 tvg-id="rede.massa.br" tvg-name="SBT REDE MASSA HD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="CANAIS SBT",SBT REDE MASSA HD
+http://get26.maniacodeteste34.click:80/hicaro/hicaro/34604.ts
+#EXTINF:-1 tvg-id="sbt.rio.br" tvg-name="SBT RJ Capital HD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="CANAIS SBT",SBT RJ Capital HD
+http://get26.maniacodeteste34.click:80/hicaro/hicaro/34605.ts
+#EXTINF:-1 tvg-id="sbt.rio.br" tvg-name="SBT RJ HD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="CANAIS SBT",SBT RJ HD
+http://get26.maniacodeteste34.click:80/hicaro/hicaro/34606.ts
+#EXTINF:-1 tvg-id="rede.difusora.br" tvg-name="SBT SAO LUIZ DIFUSORA  HD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="CANAIS SBT",SBT SAO LUIZ DIFUSORA  HD
+http://get26.maniacodeteste34.click:80/hicaro/hicaro/34607.ts
+#EXTINF:-1 tvg-id="tv.sorocaba.br" tvg-name="SBT SOROCABA HD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="CANAIS SBT",SBT SOROCABA HD
+http://get26.maniacodeteste34.click:80/hicaro/hicaro/34608.ts
+#EXTINF:-1 tvg-id="397" tvg-name="SBT SP HD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="CANAIS SBT",SBT SP HD
+http://get26.maniacodeteste34.click:80/hicaro/hicaro/34609.ts
+#EXTINF:-1 tvg-id="sbt.sao.paulo.br" tvg-name="SBT SP SD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="CANAIS SBT",SBT SP SD
+http://get26.maniacodeteste34.click:80/hicaro/hicaro/34610.ts
+#EXTINF:-1 tvg-id="" tvg-name="SBT VTV HD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="CANAIS SBT",SBT VTV HD
+http://get26.maniacodeteste34.click:80/hicaro/hicaro/34611.ts
+#EXTINF:-1 tvg-id="tv.jornal.br" tvg-name="SBT JORNAL INTERIOR HD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="CANAIS SBT",SBT JORNAL INTERIOR HD
+http://get26.maniacodeteste34.click:80/hicaro/hicaro/34612.ts
+#EXTINF:-1 tvg-id="tv.jangadeiro.br" tvg-name="SBT CEARA JANGADEIRO HD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="CANAIS SBT",SBT CEARA JANGADEIRO HD
+http://get26.maniacodeteste34.click:80/hicaro/hicaro/34613.ts
+#EXTINF:-1 tvg-id="sbt.ponta.verde.br" tvg-name="SBT CIDADE VERDE FHD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="CANAIS SBT",SBT CIDADE VERDE FHD
+http://get26.maniacodeteste34.click:80/hicaro/hicaro/34615.ts
+#EXTINF:-1 tvg-id="" tvg-name="SBT RP FHD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="CANAIS SBT",SBT RP FHD
+http://get26.maniacodeteste34.click:80/hicaro/hicaro/34617.ts
+#EXTINF:-1 tvg-id="" tvg-name="SBT CENTRAL FHD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="CANAIS SBT",SBT CENTRAL FHD
+http://get26.maniacodeteste34.click:80/hicaro/hicaro/34618.ts
+#EXTINF:-1 tvg-id="sbt.goiania.serra.dourada.br" tvg-name="SBT TV SERRA DOURADA FHD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="CANAIS SBT",SBT TV SERRA DOURADA FHD
+http://get26.maniacodeteste34.click:80/hicaro/hicaro/34619.ts
+#EXTINF:-1 tvg-id="sbt.rs.br" tvg-name="SBT RS FHD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="CANAIS SBT",SBT RS FHD
+http://get26.maniacodeteste34.click:80/hicaro/hicaro/34620.ts
+#EXTINF:-1 tvg-id="sbt.goiania.serra.dourada.br" tvg-name="SBT GOIAS FHD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="CANAIS SBT",SBT GOIAS FHD
+http://get26.maniacodeteste34.click:80/hicaro/hicaro/34621.ts
+#EXTINF:-1 tvg-id="band.sao.paulo.br" tvg-name="Band SP FHD" tvg-logo="http://97j91.xyz/images/574ff4699083ce51de0dabcfad5edc4c.png" group-title="BAND",Band SP FHD
+http://get26.maniacodeteste34.click:80/hicaro/hicaro/40258.ts
+#EXTINF:-1 tvg-id="band.bahia.br" tvg-name="BAND BAHIA HD" tvg-logo="http://97j91.xyz/images/574ff4699083ce51de0dabcfad5edc4c.png" group-title="BAND",BAND BAHIA HD
+http://get26.maniacodeteste34.click:80/hicaro/hicaro/40260.ts
+#EXTINF:-1 tvg-id="band.belem.br" tvg-name="BAND BELEM DO PARA HD" tvg-logo="http://97j91.xyz/images/574ff4699083ce51de0dabcfad5edc4c.png" group-title="BAND",BAND BELEM DO PARA HD
+http://get26.maniacodeteste34.click:80/hicaro/hicaro/40261.ts
+#EXTINF:-1 tvg-id="band.curitiba.br" tvg-name="BAND CURITIBA HD" tvg-logo="http://97j91.xyz/images/574ff4699083ce51de0dabcfad5edc4c.png" group-title="BAND",BAND CURITIBA HD
+http://get26.maniacodeteste34.click:80/hicaro/hicaro/40262.ts
+#EXTINF:-1 tvg-id="band.br" tvg-name="Band ES HD" tvg-logo="http://97j91.xyz/images/574ff4699083ce51de0dabcfad5edc4c.png" group-title="BAND",Band ES HD
+http://get26.maniacodeteste34.click:80/hicaro/hicaro/40263.ts
+#EXTINF:-1 tvg-id="174" tvg-name="Band HD" tvg-logo="http://97j91.xyz/images/574ff4699083ce51de0dabcfad5edc4c.png" group-title="BAND",Band HD
+http://get26.maniacodeteste34.click:80/hicaro/hicaro/40264.ts
+#EXTINF:-1 tvg-id="6" tvg-name="Band News FHD" tvg-logo="http://97j91.xyz/images/574ff4699083ce51de0dabcfad5edc4c.png" group-title="BAND",Band News FHD
+http://get26.maniacodeteste34.click:80/hicaro/hicaro/40265.ts
+#EXTINF:-1 tvg-id="6" tvg-name="Band News HD" tvg-logo="http://97j91.xyz/images/574ff4699083ce51de0dabcfad5edc4c.png" group-title="BAND",Band News HD
+http://get26.maniacodeteste34.click:80/hicaro/hicaro/40266.ts
+#EXTINF:-1 tvg-id="6" tvg-name="Band News SD" tvg-logo="http://97j91.xyz/images/574ff4699083ce51de0dabcfad5edc4c.png" group-title="BAND",Band News SD
+http://get26.maniacodeteste34.click:80/hicaro/hicaro/40271.ts
+#EXTINF:-1 tvg-id="band.curitiba.br" tvg-name="Band PR Maringa HD" tvg-logo="http://97j91.xyz/images/574ff4699083ce51de0dabcfad5edc4c.png" group-title="BAND",Band PR Maringa HD
+http://get26.maniacodeteste34.click:80/hicaro/hicaro/40272.ts
+#EXTINF:-1 tvg-id="band.rj.br" tvg-name="Band RJ HD" tvg-logo="http://97j91.xyz/images/574ff4699083ce51de0dabcfad5edc4c.png" group-title="BAND",Band RJ HD
+http://get26.maniacodeteste34.click:80/hicaro/hicaro/40274.ts
+#EXTINF:-1 tvg-id="band.rio.grande.do.sul.br" tvg-name="Band RS HD" tvg-logo="http://97j91.xyz/images/574ff4699083ce51de0dabcfad5edc4c.png" group-title="BAND",Band RS HD
+http://get26.maniacodeteste34.click:80/hicaro/hicaro/40275.ts
+#EXTINF:-1 tvg-id="6" tvg-name="BAND SD" tvg-logo="http://97j91.xyz/images/574ff4699083ce51de0dabcfad5edc4c.png" group-title="BAND",BAND SD
+http://get26.maniacodeteste34.click:80/hicaro/hicaro/40276.ts
+#EXTINF:-1 tvg-id="174" tvg-name="Band SP HD" tvg-logo="http://97j91.xyz/images/574ff4699083ce51de0dabcfad5edc4c.png" group-title="BAND",Band SP HD
+http://get26.maniacodeteste34.click:80/hicaro/hicaro/40277.ts
+#EXTINF:-1 tvg-id="174" tvg-name="Band SP SD" tvg-logo="http://97j91.xyz/images/574ff4699083ce51de0dabcfad5edc4c.png" group-title="BAND",Band SP SD
+http://get26.maniacodeteste34.click:80/hicaro/hicaro/40278.ts
+#EXTINF:-1 tvg-id="5" tvg-name="Band Sports HD" tvg-logo="http://97j91.xyz/images/574ff4699083ce51de0dabcfad5edc4c.png" group-title="BAND",Band Sports HD
+http://get26.maniacodeteste34.click:80/hicaro/hicaro/40280.ts
+#EXTINF:-1 tvg-id="5" tvg-name="Band Sports FHD" tvg-logo="http://97j91.xyz/images/574ff4699083ce51de0dabcfad5edc4c.png" group-title="BAND",Band Sports FHD
+http://get26.maniacodeteste34.click:80/hicaro/hicaro/40285.ts
+#EXTINF:-1 tvg-id="5" tvg-name="BandSports SD" tvg-logo="http://97j91.xyz/images/574ff4699083ce51de0dabcfad5edc4c.png" group-title="BAND",BandSports SD
+http://get26.maniacodeteste34.click:80/hicaro/hicaro/40286.ts
+#EXTINF:-1 tvg-id="6" tvg-name="Band News 4K" tvg-logo="http://97j91.xyz/images/574ff4699083ce51de0dabcfad5edc4c.png" group-title="BAND",Band News 4K
+http://get26.maniacodeteste34.click:80/hicaro/hicaro/40287.ts
+#EXTINF:-1 tvg-id="174" tvg-name="Band SP 4K" tvg-logo="http://97j91.xyz/images/574ff4699083ce51de0dabcfad5edc4c.png" group-title="BAND",Band SP 4K
+http://get26.maniacodeteste34.click:80/hicaro/hicaro/40288.ts
+#EXTINF:-1 tvg-id="5" tvg-name="Band Sports 4K" tvg-logo="http://97j91.xyz/images/574ff4699083ce51de0dabcfad5edc4c.png" group-title="BAND",Band Sports 4K
+http://get26.maniacodeteste34.click:80/hicaro/hicaro/40289.ts
+#EXTINF:-1 tvg-id="band.rj.br" tvg-name="Band RJ SD" tvg-logo="http://97j91.xyz/images/574ff4699083ce51de0dabcfad5edc4c.png" group-title="BAND",Band RJ SD
+http://get26.maniacodeteste34.click:80/hicaro/hicaro/40290.ts
+#EXTINF:-1 tvg-id="6" tvg-name="Band News FHD" tvg-logo="http://97j91.xyz/images/574ff4699083ce51de0dabcfad5edc4c.png" group-title="BAND",Band News FHD
+http://get26.maniacodeteste34.click:80/hicaro/hicaro/40291.ts
+#EXTINF:-1 tvg-id="band.rj.br" tvg-name="Band RJ FHD" tvg-logo="http://97j91.xyz/images/574ff4699083ce51de0dabcfad5edc4c.png" group-title="BAND",Band RJ FHD
+http://get26.maniacodeteste34.click:80/hicaro/hicaro/40292.ts
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND CEARA HD" tvg-logo="http://97j91.xyz/images/574ff4699083ce51de0dabcfad5edc4c.png" group-title="BAND",BAND CEARA HD
+http://get26.maniacodeteste34.click:80/hicaro/hicaro/40293.ts
+#EXTINF:-1 tvg-id="band.curitiba.br" tvg-name="Band PR FHD" tvg-logo="http://97j91.xyz/images/574ff4699083ce51de0dabcfad5edc4c.png" group-title="BAND",Band PR FHD
+http://get26.maniacodeteste34.click:80/hicaro/hicaro/58117.ts
+#EXTINF:-1 tvg-id="tv.atalaia.br" tvg-name="Record Atalaia SE HD" tvg-logo="https://i.imgur.com/iyCPHjp.png" group-title="RECORD",Record Atalaia SE HD
+http://get26.maniacodeteste34.click:80/hicaro/hicaro/58118.ts
